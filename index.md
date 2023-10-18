@@ -4,20 +4,43 @@ layout: page
 
 # Introduction
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="/images/chenyilong.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yilong Chen**.
+### **Yilong Chen**
+
+West China Biomedical Big Data Center, West China Hospital
+
+Med-X Center for Informatics & Medical Big Data Center
+
+Sichuan Univeristy
+
+E-mail: chenyilong@scu.edu.cn
+
+Addr: 37 Guoxue Alley, Wuhou District, Chengdu, Sichuan, P.R. China 610041
+
+<br>
+
+## Brief introduction
 
 Yilong Chen is a bioinformatics and medical informatics researcher. He develops algorithms for analyzing genomic data and applies medical big data techniques to clinical data. His interdisciplinary work drives innovation in precision medicine. With published research on genetic associations and psychiatric disorders, he contributes to data-driven healthcare solutions.
 
 <br>
 
+---
+
+## Work Experience
+
+- **Oct 2018 - present:** Biomedical Big Data Center, West China Hospital, Sichuan University (Analyst)
+
+<br>
+
+---
+
 ## Academic Background
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year Mphil program and graduate in 2025. Looking for PhD position after that.
+- **Aug 2015 - Aug 2018:** Colorado State University (M.S.)
+- **Sep 2011 - June 2015:** Xihua University (B.S.)
+- **Sep 2008 - June 2011:** Shishi High School
 
 <br>
 
@@ -25,23 +48,9 @@ Yilong Chen is a bioinformatics and medical informatics researcher. He develops 
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
-<br>
-
----
-
-## News and Updates
-
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started internship at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- Epigenetics
+- Applied Statistics
+- Environmental Health
+- Data mining
 
 <br>
