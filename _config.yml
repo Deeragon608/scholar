@@ -27,26 +27,40 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "PfBeWQk_JjMWN1qbqO8LYT16RK15W5wwNYkWUSK_Vak"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
+# add language options
+languages:
+  - name: English
+    lang: en
+    url: /
+  - name: 中文
+    lang: zh
+    url: /zh/
+    
+default_lang: zh
+
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Introduction
     url: /
   - title: Publications
-    url: /publications/
+    url: /en/publications_en/
   - title: Fundings
-    url: /fundings/
+    url: /en/fundings_en/
   - title: Patents
-    url: /patents/
+    url: /en/patents_en/
   - title: Awards
-    url: /awards/
+    url: /en/awards_en/
   - title: Blogs
-    url: /blogs/
+    url: /en/blogs_en/
+
+[切换到中文](/change-language?lang=zh)
+[Switch to English](/change-language?lang=en)
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
