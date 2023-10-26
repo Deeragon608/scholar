@@ -1,6 +1,6 @@
 # Introduction
 
-### Yilong Chen<br>
+### Yilong Chen
 Homepage: [scholar.deeragon.cn](https://scholar.deeragon.cn)<br>
 Email: chenyilong@scu.edu.cn<br>
 
