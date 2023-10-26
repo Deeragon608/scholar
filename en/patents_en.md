@@ -12,6 +12,7 @@ title: Patents
 - 整合基于集成TAD重组的多组学分析与转录因子基序富集分析<br>
 - 实现一种新的高尿酸血症肾脏病致病因子的预筛选方法<br>
 - 解决当前对致病因子预筛选准确度不高的问题<br>
+
 ---
 ### 专利2：基因数据文件快速识别方法、系统和计算机可读存储介质
 
@@ -21,6 +22,7 @@ title: Patents
 - 减少因人为造成的管理错误
 - 提高人员的管理效率
 - 提高计算机资源的使用效率<br>
+
 ---
 ### 专利3：一种基因测序多样本数据文件自动配对的方法和系统
 <img src="/images/应-一种基因测序多样本数据文件自动配对的方法和系统.jpg" alt="专利：一种基因测序多样本数据文件自动配对的方法和系统" width="360" height="480">
@@ -29,7 +31,20 @@ title: Patents
 - 区分同一样本模板链文件和互补链文件
 - 减少因人为造成的程序执行错误问题
 - 提高计算机资源的使用效率<br>
- 
+
+---
+### 专利4：一种医学人工智能与高性能计算资源调度系统及调度方法
+<img src="/images/应-一种医学人工智能与高性能计算资源调度系统及调度方法.jpg" alt="专利：一种医学人工智能与高性能计算资源调度系统及调度方法" width="360" height="480">
+<br>
+---
+
+### 专利5：一种基于联邦学习和区块链的医疗大数据共享方法
+<img src="/images/匡-一种基于联邦学习和区块链的医疗大数据共享方法.jpg" alt="专利：一种基于联邦学习和区块链的医疗大数据共享方法" width="360" height="480">
+<br>
+
+### 专利6：一种多模态组学数据管理系统
+<img src="/images/辜-一种多模态组学数据管理系统.jpg" alt="专利：一种多模态组学数据管理系统" width="360" height="480">
+
 <br>
 ## Software Copyright
 ### 软著1：ENA基因数据批量采集软件
@@ -54,9 +69,19 @@ title: Patents
 - 基于组别自动化进行亚组分析
 - 减少影响因素分析流程
 - 更快速地获得基因数据分析结论及可视化结果<br>
-
 <br>
+---
 
+### 软著4：基于HPC多核并行加速的自动化GWAS分析软件
+<img src="/images/软著-基于HPC多核并行加速的自动化GWAS分析软件.jpg" alt="软著：基于HPC多核并行加速的自动化GWAS分析软件  V1.0" width="360" height="480">
+
+- <br>
+
+---
+### 软著5：AutoPheWASpeed软件软件
+<img src="/images/软著-AutoPheWASpeed软件.jpg" alt="软著：AutoPheWASpeed软件  V1.0" width="360" height="480">
+
+- <br>
 <!-- Calendly inline widget begin -->
 
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
