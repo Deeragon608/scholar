@@ -4,7 +4,7 @@ permalink: /en/publications_en/index.html
 title: Publications
 ---
 
-**Referred Publications** (from 2019 to present)<br<>
+**Referred Publications** (from 2019 to present)<br>
 **<sup>\*</sup>** indicates the corresponding author<br>
 **<sup>\#</sup>** indicates equal contribution and shared first authorship
 
