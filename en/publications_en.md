@@ -4,7 +4,6 @@ permalink: /en/publications_en/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)<br>
 **Referred Publications** (from 2019 to present)<br<>
 **<sup>\*</sup>** indicates the corresponding author<br>
 **<sup>\#</sup>** indicates equal contribution and shared first authorship
