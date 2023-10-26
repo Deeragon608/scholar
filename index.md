@@ -8,8 +8,8 @@ layout: page
 
 ### **Yilong Chen**
 
-West China Biomedical Big Data Center, West China Hospital
-Med-X Center for Informatics & Medical Big Data Center
+West China Biomedical Big Data Center, West China Hospital<br>
+Med-X Center for Informatics & Medical Big Data Center<br>
 Sichuan Univeristy<br>
 E-mail: chenyilong@scu.edu.cn<br>
 Addr: 37 Guoxue Alley, Wuhou District, Chengdu, Sichuan, P.R. China 610041
