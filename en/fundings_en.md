@@ -4,8 +4,8 @@ permalink: /en/fundings_en/index.html
 title: Fundings
 ---
 
-**Referred Funds** (from 2019 to present)
-**NSFC** indicates National Natural Science Foundation of China
+**Referred Funds** (from 2019 to present)<br>
+**NSFC** indicates National Natural Science Foundation of China<br>
 **SCST** indicates Science and Technology Department of Sichuan Province
 <br>
 ### Principal Investigator
