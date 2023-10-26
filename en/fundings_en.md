@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fundings/index.html
+permalink: /en/fundings_en/index.html
 title: Fundings
 ---
 
@@ -13,10 +13,11 @@ title: Fundings
 
 ---
 ### Co-Investigator
-- 2024.01-2027.12: Zhi Wan (PI), **Yilong Chen**(CI 3), 基于多源知识融合与挖掘的罕见病全程精准分级诊疗流转机制研究, Funding ￥410,000 by NSFC (Grant No. 72374148)
-- 2023.01-2026.12: Deren Wang (PI), **Yilong Chen**(CI 2), 内皮细胞机械敏感离子通道Piezo1通过HIF-1α/system Xc-介导BBB破坏在急性脑缺血再灌注损伤中的作用与机制研究, Funding ￥520,000 by NSFC (Grant No. 82271331)
-- 2021.04-2023.03: Wei Chen (PI), **Yilong Chen**(CI 8), 基于医疗大数据与人工智能的急性出血性脑卒中临床救治关键技术的研究与应用, Funding ￥200,000 by SCST (Grant No. 2021YFS0203)
-- 2021.04-2023.03: Haopeng Yu (PI), **Yilong Chen**(CI 2), 基于启动子增强子互作的高尿酸血症肾损害保护性因子筛选与调控机制研究, Funding ￥200,000 by SCST (Grant No. 2021YFS0158)
-- 2020.03-2021.01: Jiajun Qiu (PI), **Yilong Chen**(CI 2), 新冠专项—基于CT影像多模态数据融合的新型冠状病毒肺炎人工智能辅助诊断系统研究, Funding ￥1,000,000 by SCST (Grant No. 2020YFS0556)
-- 2020.02-2022.02: Wei Zhang (PI), **Yilong Chen**(CI 22), 新冠专项—基于人群动态定位大数据平台、多种时空网络、动力学模型对新型冠状病毒肺炎传播及流行趋势的评估与预测, Funding ￥1,000,000 by SCST (Grant No. 2020YFS0007)
-- 2019.03-2021.02: Yonghong Gu (PI), **Yilong Chen**(CI 1), 互联网+医疗分级诊疗服务体系模式研究, Funding ￥20,000 by SCST (Grant No. 19PJ248)
+- 2024.01-2027.12: Zhi Wan (PI), **Yilong Chen** (CI 3), 基于多源知识融合与挖掘的罕见病全程精准分级诊疗流转机制研究, Funding ￥410,000 by NSFC (Grant No. 72374148)
+- 2023.01-2026.12: Deren Wang (PI), **Yilong Chen** (CI 2), 内皮细胞机械敏感离子通道Piezo1通过HIF-1α/system Xc-介导BBB破坏在急性脑缺血再灌注损伤中的作用与机制研究, Funding ￥520,000 by NSFC (Grant No. 82271331)
+- 2021.04-2023.03: Wei Chen (PI), **Yilong Chen** (CI 8), 基于医疗大数据与人工智能的急性出血性脑卒中临床救治关键技术的研究与应用, Funding ￥200,000 by SCST (Grant No. 2021YFS0203)
+- 2021.04-2023.03: Haopeng Yu (PI), **Yilong Chen** (CI 2), 基于启动子增强子互作的高尿酸血症肾损害保护性因子筛选与调控机制研究, Funding ￥200,000 by SCST (Grant No. 2021YFS0158)
+- 2020.03-2021.01: Jiajun Qiu (PI), **Yilong Chen** (CI 17), 新冠专项—基于CT影像多模态数据融合的新型冠状病毒肺炎人工智能辅助诊断系统研究, Funding ￥1,000,000 by SCST (Grant No. 2020YFS0556)
+- 2020.02-2022.02: Wei Zhang (PI), **Yilong Chen** (CI 22), 新冠专项—基于人群动态定位大数据平台、多种时空网络、动力学模型对新型冠状病毒肺炎传播及流行趋势的评估与预测, Funding ￥1,000,000 by SCST (Grant No. 2020YFS0007)
+- 2019.03-2021.02: Yonghong Gu (PI), **Yilong Chen** (CI 1), 互联网+医疗分级诊疗服务体系模式研究, Funding ￥20,000 by Health Commission of Sichuan Province (Grant No. 19PJ248)
+<br>
