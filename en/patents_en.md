@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /patents/index.html
+permalink: /en/patents_en/index.html
 title: Patents
 ---
 
