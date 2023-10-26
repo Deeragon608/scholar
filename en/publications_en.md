@@ -5,7 +5,9 @@ title: Publications
 ---
 
 Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)<br>
-**Referred Publications (from 2019 to present, <sup>*</sup> indicates the corresponding author, <sup>#</sup> indicates equal contribution and shared first authorship):**
+**Referred Publications** (from 2019 to present)<br<>
+**<sup>\*</sup>** indicates the corresponding author<br>
+**<sup>\#</sup>** indicates equal contribution and shared first authorship
 
 ### 2023
 - Chunyang Li<sup>\#</sup>, **Yilong Chen<sup>\#</sup>**,Yi Chen, Zhiye Ying, Yao Hu, Yalan Kuang, Huazhen Yang, Huan Song & Xiaoxi Zeng<sup>\*</sup> (2023). The causal association of Irritable Bowel Syndrome with multiple disease outcomes: A phenome-wide mendelian randomization study. *Journal of Clinical Medicine, 12*(3):1106. [doi:10.3390/jcm12031106](https://doi.org/10.3390/jcm12031106)
