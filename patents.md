@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /patents/index.html
+title: Patents
 ---
 
-# Hobbies
+# Patents
 
 ## Teaching & Workshops
 

@@ -59,9 +59,6 @@ links:
   - title: Blogs
     url: /en/blogs_en/
 
-[切换到中文](/change-language?lang=zh)
-[Switch to English](/change-language?lang=en)
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
