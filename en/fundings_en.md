@@ -8,11 +8,11 @@ title: Fundings
 **NSFC** indicates National Natural Science Foundation of China<br>
 **SCST** indicates Science and Technology Department of Sichuan Province
 <br>
-### Principal Investigator
+## Principal Investigator
 
 
 ---
-### Co-Investigator
+## Co-Investigator
 - 2024.01-2027.12: Zhi Wan (PI), **Yilong Chen** (CI 3), 基于多源知识融合与挖掘的罕见病全程精准分级诊疗流转机制研究, Funding ￥410,000 by NSFC (Grant No. 72374148)
 - 2023.01-2026.12: Deren Wang (PI), **Yilong Chen** (CI 2), 内皮细胞机械敏感离子通道Piezo1通过HIF-1α/system Xc-介导BBB破坏在急性脑缺血再灌注损伤中的作用与机制研究, Funding ￥520,000 by NSFC (Grant No. 82271331)
 - 2021.04-2023.03: Wei Chen (PI), **Yilong Chen** (CI 8), 基于医疗大数据与人工智能的急性出血性脑卒中临床救治关键技术的研究与应用, Funding ￥200,000 by SCST (Grant No. 2021YFS0203)
