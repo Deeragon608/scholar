@@ -14,4 +14,4 @@ Email: chenyilong@scu.edu.cn<br>
 
 ## Statement
 
-© 2023 Yilong Chen. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). 
+© 2023 Yilong Chen. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/Deeragon608/scholar). 
