@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Introduction
+## About me
 
 <img src="/images/chenyilong.jpg" class="floatpic" width="360" height="480">
 
