@@ -18,7 +18,7 @@ Addr: 37 Guoxue Alley, Wuhou District, Chengdu, Sichuan, P.R. China 610041
 
 ## Brief introduction
 
-**Yilong Chen** is a bioinformatics and medical informatics researcher. He develops algorithms for analyzing genomic data and applies medical big data techniques to clinical data. His interdisciplinary work drives innovation in precision medicine. With published research on genetic associations and psychiatric disorders, he contributes to data-driven healthcare solutions.
+Yilong Chen is a bioinformatics and medical informatics researcher. He develops algorithms for analyzing genomic data and applies medical big data techniques to clinical data. His interdisciplinary work drives innovation in precision medicine. With published research on genetic associations and psychiatric disorders, he contributes to data-driven healthcare solutions.
 
 <br>
 
