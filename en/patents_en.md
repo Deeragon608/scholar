@@ -60,8 +60,9 @@ title: Intellectual Property
 ### 一种多模态组学数据管理系统 <a name="专利6"></a>
 <img src="/images/辜-一种多模态组学数据管理系统.jpg" alt="专利：一种多模态组学数据管理系统" width="360" height="480">
 - <br>
-
 <br>
+
+---
 ### ENA基因数据批量采集软件 <a name="软著1"></a>
 <img src="/images/软著-ENA基因数据批量采集软件.jpg" alt="软著：ENA基因数据批量采集软件  V1.0" width="360" height="480">
 
