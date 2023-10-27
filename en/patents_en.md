@@ -33,7 +33,7 @@ title: Intellectual Property
 <p class="paragraph-with-dot">实现一种新的高尿酸血症肾脏病致病因子的预筛选方法</p>
 <p class="paragraph-with-dot">解决当前对致病因子预筛选准确度不高的问题</p>
 </dir>
-
+<div style="clear: left;"></div>
 <br>
 
 ---
