@@ -26,8 +26,7 @@ title: Intellectual Property
 <span style="color: #1494de;">### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质 <a name="专利1"></a></span>
 <dir class="piccontainer">
 <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" alt="专利：高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质" width="360" height="480">
-<p>专利发明人：<strong>陈一龙</strong>;曾筱茜;应志野;于浩澎;杨丽娜;匡亚岚;辜永红;马良</p>
-<br>
+<p>专利发明人：<strong>陈一龙</strong>;曾筱茜;应志野;于浩澎;杨丽娜;匡亚岚;辜永红;马良</p> 
 <p>授权公告日：2023-03-17</p>
 <p>公告号：CN115651975B</p>
 <p>专利号：ZL202211459944.6</p>
