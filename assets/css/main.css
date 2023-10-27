@@ -91,6 +91,7 @@ a:visited{color:#4e4e4e;}
 a:hover{color:#ed7534;}
 a:focus{outline:thin dotted;color:#343434;}
 a:hover,a:active{outline:0;}
+span:hover{color:#ed7534;}
 b,strong{font-weight:700;}
 ul li{list-style-type:square;}
 ol li{list-style-type:upper-roman;}
