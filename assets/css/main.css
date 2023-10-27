@@ -190,7 +190,7 @@ svg:not(:root){overflow:hidden;}
 .third figcaption{display:inline;float:left;width:100%;}
 img.floatpic{float:right; margin-left:1em; width:33%;}
 img.leftpic{float:right; margin-right:1em; width:33%;}
-img.piccontainer p{margin-left: 10px;}
+img.piccontainer p{margin-left: 0;}
 .paragraph-with-dot::before {
         content: "\2022"; /* 使用Unicode字符表示点（圆点） */
         display: inline-block;
