@@ -6,7 +6,7 @@ title: Patents
 
 ## Patents
 - [专利1：高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质](#高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质)
-- [软著5：AutoPheWASpeed软件软件](#AutoPheWASpeed软件软件)
+- [软著5：AutoPheWASpeed软件软件](#软著1)
 
 ### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质
 <dir class="piccontainer">
@@ -83,7 +83,7 @@ title: Patents
 - <br>
 
 ---
-### AutoPheWASpeed软件软件
+### AutoPheWASpeed软件软件 <a name="软著1"></a>
 <img src="/images/软著-AutoPheWASpeed软件.jpg" alt="软著：AutoPheWASpeed软件  V1.0" width="360" height="480">
 
 - <br>
