@@ -19,8 +19,11 @@ title: Intellectual Property
 - [软著3：APEAMGA软件](#软著3)
 - [软著4：基于HPC多核并行加速的自动化GWAS分析软件](#软著4)
 - [软著5：AutoPheWASpeed软件软件](#软著5)
+<br>
 
-### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质 <a name="专利1"></a>
+---
+
+<span style="color: #1494de;">### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质 <a name="专利1"></a></span>
 <dir class="piccontainer">
 <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" alt="专利：高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质" width="360" height="480">
 <p>专利发明人：<strong>陈一龙</strong>;曾筱茜;应志野;于浩澎;杨丽娜;匡亚岚;辜永红;马良</p>
