@@ -26,14 +26,14 @@ title: Intellectual Property
 ### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质 <a name="专利1"></a>
 <dir class="piccontainer">
 <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" alt="专利：高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质" width="360" height="480">
-<p>专利发明人：<strong>陈一龙</strong>；曾筱茜；应志野；于浩澎；杨丽娜；匡亚岚；辜永红；马良</p> 
-<p>授权公告日：2023-03-17</p>
+<p>专利发明人：<strong>陈一龙</strong>；曾筱茜；应志野；于浩澎；杨丽娜；匡亚岚；辜永红；马良<br> 授权公告日：2023-03-17</p>
 <p>公告号：CN115651975B</p>
 <p>专利号：ZL202211459944.6</p>
 <p>主要功能：</p>
-<p class="paragraph-with-dot">整合基于集成TAD重组的多组学分析与转录因子基序富集分析</p>
+<p class="paragraph-with-dot">集成TAD重组的多组学分析与转录因子基序富集分析</p>
 <p class="paragraph-with-dot">实现一种新的高尿酸血症肾脏病致病因子的预筛选方法</p>
 <p class="paragraph-with-dot">解决当前对致病因子预筛选准确度不高的问题</p>
+
 </dir>
 <br>
 
@@ -79,7 +79,7 @@ title: Intellectual Property
 - 根据ENA数据库项目编号，批量获取项目数据下载信息
 - 自动生成校验文件和下载脚本
 - 降低手动查找ENA项目并获取下载链接所投入大量人力和时间<br>
- 
+
 ---
 ### Vennux软件 <a name="软著2"></a>
 <img src="/images/软著-vennux.jpg" alt="软著：Vennux软件  V1.0" width="360" height="480">
