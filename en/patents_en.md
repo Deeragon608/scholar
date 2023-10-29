@@ -33,7 +33,7 @@ title: Intellectual Property
     <span style="color:#74B89C;">授权公告号：</span>CN115651975B<br>
     <span style="color:#74B89C;">专利号：</span>ZL202211459944.6<br>
     <span style="color:#74B89C;">主要功能：</span></p>
-<p style="text-indent:-1em"; class="paragraph-with-dot">集成TAD重组的多组学分析与转录因子基序富集分析</p>
+<p class="paragraph-with-dot">集成TAD重组的多组学分析与转录因子基序富集分析</p>
 <p class="paragraph-with-dot">实现一种新的高尿酸血症肾脏病致病因子的预筛选方法</p>
 <p class="paragraph-with-dot">解决当前对致病因子预筛选准确度不高的问题</p>
 
