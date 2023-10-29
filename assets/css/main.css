@@ -195,7 +195,7 @@ img.piccontainer {display:flex;align-items:center;}
         content: "\2022";
         display: inline-block;
 		vertical-align: middle;
-        margin-right: 1em;	
+        margin-right: 0.5em;	
 margin-top: 0;		
     }
 hr {
