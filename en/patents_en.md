@@ -45,7 +45,7 @@ title: Intellectual Property
 
 </dir>
 
-<dir>
+</dir>
 
 <hr>
 
