@@ -247,7 +247,7 @@ title: Intellectual Property
     <span style="color:#DF9599;">主要功能：</span></p>
 <p class="paragraph-with-dot">根据ENA数据库项目编号批量获取项目数据下载信息</p>
 <p class="paragraph-with-dot">自动生成校验文件和下载脚本</p>
-<p class="paragraph-with-dot">降低手动查找ENA项目并获取下载链接所投入大量人力和时间</p>
+<p class="paragraph-with-dot">降低手动查找ENA项目获取下载链接所投入大量人力和时间</p>
 
 </dir>
 
