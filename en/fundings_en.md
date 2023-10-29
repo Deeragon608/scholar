@@ -5,8 +5,8 @@ title: Fundings
 ---
 
 **Funds** (from 2019 to present)<br>
-**NSFC** indicates National Natural Science Foundation of China<br>
-**SCST** indicates Science and Technology Department of Sichuan Province
+NSFC indicates National Natural Science Foundation of China<br>
+SCST indicates Science and Technology Department of Sichuan Province
 <br>
 ## Principal Investigator
 
