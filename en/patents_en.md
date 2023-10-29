@@ -14,12 +14,12 @@ title: Intellectual Property
 
 
 ## Software Copyright
-- [软著1：ENA基因数据批量采集软件](#软著1)
-- [软著2：Vennux软件](#软著2)
+- [软著1：基于HPC多核并行加速的自动化GWAS分析软件](#软著1)
+- [软著2：AutoPheWASpeed软件](#软著2)
 - [软著3：APEAMGA软件](#软著3)
-- [软著4：基于HPC多核并行加速的自动化GWAS分析软件](#软著4)
-- [软著5：AutoPheWASpeed软件软件](#软著5)
-<br>
+- [软著4：Vennux软件](#软著4)
+- [软著5：ENA基因数据批量采集软件](#软著5)
+  <br>
 
 ---
 
@@ -146,38 +146,108 @@ title: Intellectual Property
 <hr>
 
 
+### 基于HPC多核并行加速的自动化GWAS分析软件 <a name="软著1"></a>
 
-### ENA基因数据批量采集软件 <a name="软著1"></a>
-<img src="/images/软著-ENA基因数据批量采集软件.jpg" alt="软著：ENA基因数据批量采集软件  V1.0" width="360" height="480">
+<dir class="piccontainer">
 
-- 根据ENA数据库项目编号，批量获取项目数据下载信息
-- 自动生成校验文件和下载脚本
-- 降低手动查找ENA项目并获取下载链接所投入大量人力和时间<br>
+<img src="/images/软著-基于HPC多核并行加速的自动化GWAS分析软件.jpg" class="leftpic" width="360" height="480">
 
----
-### Vennux软件 <a name="软著2"></a>
-<img src="/images/软著-vennux.jpg" alt="软著：Vennux软件  V1.0" width="360" height="480">
+<p><span style="color:#DF9599;">开发人员：</span><strong>陈一龙</strong>；李春漾；应志野；匡亚岚；张超；曾筱茜<br>
+    <span style="color:#DF9599;">获批日期：</span>2023-09-11<br>
+    <span style="color:#DF9599;">登记号：</span>2023SR1042097<br>
+    <span style="color:#DF9599;">证书号：</span>软著登字第11629270号<br>
+    <span style="color:#DF9599;">主要功能：</span></p>
+<p class="paragraph-with-dot">高效并行计算</p>
+<p class="paragraph-with-dot">自动检漏补算</p>
+<p class="paragraph-with-dot">自定义排除SNP</p>
+<p class="paragraph-with-dot">自动任务提交</p>
+<p class="paragraph-with-dot">自动结果汇总</p>
 
-- 通过Linux系统对基因组学大数据进行韦恩图绘制
-- 解决因组学数据庞大而无法在Windows系统上实现韦恩图绘制的问题<br>
+</dir>
 
----
+<hr>
+
+
+
+### AutoPheWASpeed软件 <a name="软著2"></a>
+
+<dir class="piccontainer">
+
+<img src="/images/软著-AutoPheWASpeed软件.jpg" class="leftpic" width="360" height="480">
+
+<p><span style="color:#DF9599;">开发人员：</span><strong>陈一龙</strong>；李春漾；应志野；匡亚岚；张超；曾筱茜<br>
+    <span style="color:#DF9599;">获批日期：</span>2023-09-11<br>
+    <span style="color:#DF9599;">登记号：</span>2023SR1042093<br>
+    <span style="color:#DF9599;">证书号：</span>软著登字第11629266号<br>
+    <span style="color:#DF9599;">主要功能：</span></p>
+<p class="paragraph-with-dot">高效并行计算</p>
+<p class="paragraph-with-dot">两种PheWAS计算模式</p>
+<p class="paragraph-with-dot">任务提交数量管控</p>
+<p class="paragraph-with-dot">自动任务提交</p>
+<p class="paragraph-with-dot">自动结果汇总</p>
+
+</dir>
+
+<hr>
+
+
+
 ### APEAMGA软件 <a name="软著3"></a>
-<img src="/images/软著-APEAMGA软件.jpg" alt="软著：APEAMGA软件  V1.0" width="360" height="480">
 
-- 采用广义加性模型自动化分析基因大数据的显著影响因素
-- 基于组别自动化进行亚组分析
-- 减少影响因素分析流程
-- 更快速地获得基因数据分析结论及可视化结果<br>
+<dir class="piccontainer">
 
----
-### 基于HPC多核并行加速的自动化GWAS分析软件 <a name="软著4"></a>
-<img src="/images/软著-基于HPC多核并行加速的自动化GWAS分析软件.jpg" alt="软著：基于HPC多核并行加速的自动化GWAS分析软件  V1.0" width="360" height="480">
+<img src="/images/软著-APEAMGA软件.jpg" class="leftpic" width="360" height="480">
 
-- <br>
+<p><span style="color:#DF9599;">开发人员：</span><strong>陈一龙</strong>；曾筱茜；胡耀<br>
+    <span style="color:#DF9599;">获批日期：</span>2021-05-21<br>
+    <span style="color:#DF9599;">登记号：</span>2021SR0734178<br>
+    <span style="color:#DF9599;">证书号：</span>软著登字第7456804号<br>
+    <span style="color:#DF9599;">主要功能：</span></p>
+<p class="paragraph-with-dot">采用广义加性模型自动化分析基因大数据的显著影响因素</p>
+<p class="paragraph-with-dot">基于组别自动化进行亚组分析</p>
+<p class="paragraph-with-dot">减少影响因素分析流程</p>
+<p class="paragraph-with-dot">更快速地获得基因数据分析结论及可视化结果</p>
 
----
-### AutoPheWASpeed软件软件 <a name="软著5"></a>
-<img src="/images/软著-AutoPheWASpeed软件.jpg" alt="软著：AutoPheWASpeed软件  V1.0" width="360" height="480">
+</dir>
 
-- <br>
+<hr>
+
+
+
+### Vennux软件 <a name="软著4"></a>
+
+<dir class="piccontainer">
+
+<img src="/images/软著-vennux.jpg" class="leftpic" width="360" height="480">
+
+<p><span style="color:#DF9599;">开发人员：</span><strong>陈一龙</strong>；于浩澎；曾筱茜；杨晓妍；李春漾；应志野；孙雅婧；辜永红<br>
+    <span style="color:#DF9599;">获批日期：</span>2021-04-26<br>
+    <span style="color:#DF9599;">登记号：</span>2021SR0603596<br>
+    <span style="color:#DF9599;">证书号：</span>软著登字第7326222号<br>
+    <span style="color:#DF9599;">主要功能：</span></p>
+<p class="paragraph-with-dot">通过Linux系统对基因组学大数据进行韦恩图绘制</p>
+<p class="paragraph-with-dot">解决因组学数据庞大而无法在Windows系统上实现韦恩图绘制的问题</p>
+
+</dir>
+
+<hr>
+
+
+
+### ENA基因数据批量采集软件 <a name="软著5"></a>
+
+<dir class="piccontainer">
+
+<img src="/images/软著-ENA基因数据批量采集软件.jpg" class="leftpic" width="360" height="480">
+
+<p><span style="color:#DF9599;">开发人员：</span>应志野；于浩澎；曾筱茜；李春漾；<strong>陈一龙</strong>；孙雅婧；辜永红<br>
+    <span style="color:#DF9599;">获批日期：</span>2021-04-26<br>
+    <span style="color:#DF9599;">登记号：</span>2021SR0597215<br>
+    <span style="color:#DF9599;">证书号：</span>软著登字第7319841号<br>
+    <span style="color:#DF9599;">主要功能：</span></p>
+<p class="paragraph-with-dot">根据ENA数据库项目编号批量获取项目数据下载信息</p>
+<p class="paragraph-with-dot">自动生成校验文件和下载脚本</p>
+<p class="paragraph-with-dot">降低手动查找ENA项目并获取下载链接所投入大量人力和时间</p>
+
+</dir>
+
