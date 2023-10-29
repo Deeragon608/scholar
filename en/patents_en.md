@@ -7,10 +7,10 @@ title: Intellectual Property
 ## Patents
 - [专利1：高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质](#专利1)
 - [专利2：基因数据文件快速识别方法、系统和计算机可读存储介质](#专利2)
-- [专利3：一种基因测序多样本数据文件自动配对的方法和系统](#专利3)
-- [专利4：一种医学人工智能与高性能计算资源调度系统及调度方法](#专利4)
-- [专利5：一种基于联邦学习和区块链的医疗大数据共享方法](#专利5)
-- [专利6：一种多模态组学数据管理系统](#专利6)
+- [专利3：一种多模态组学数据管理系统](#专利3)
+- [专利4：一种基因测序多样本数据文件自动配对的方法和系统](#专利4)
+- [专利5：一种医学人工智能与高性能计算资源调度系统及调度方法](#专利5)
+- [专利6：一种基于联邦学习和区块链的医疗大数据共享方法](#专利6)
 
 
 ## Software Copyright
@@ -45,41 +45,108 @@ title: Intellectual Property
 
 ### 基因数据文件快速识别方法、系统和计算机可读存储介质 <a name="专利2"></a>
 
+<dir class="piccontainer">
+
+<img src="/images/陈-基因数据文件快速识别方法、系统和计算机可读存储介质.jpg" class="leftpic" width="360" height="480">
+
+<p><span style="color:#74B89C;">专利发明人：</span><strong>陈一龙</strong>；应志野；辜永红；于浩澎；杨绪亮；葛平；成孝禹；于鹏佳；程岭；黄蓉<br>
+    <span style="color:#74B89C;">授权公告日：</span>2023-02-03<br>
+    <span style="color:#74B89C;">授权公告号：</span>CN115391284B<br>
+    <span style="color:#74B89C;">专利号：</span>ZL202211347438.8<br>
+    <span style="color:#74B89C;">主要功能：</span></p>
+<p class="paragraph-with-dot">准确、简便和高效地识别和查找基因数据文件</p>
+<p class="paragraph-with-dot">减少因人为造成的管理错误</p>
+<p class="paragraph-with-dot">提高计算机资源的使用效率</p>
+<p class="paragraph-with-dot">提高人员的管理效率</p>
+
+</dir>
+
+<hr>
 
 
-<img src="/images/陈-基因数据文件快速识别方法、系统和计算机可读存储介质.jpg" alt="专利：基因数据文件快速识别方法、系统和计算机可读存储介质" width="360" height="480">
 
-- 准确、简便和高效地识别和查找基因数据文件
-- 减少因人为造成的管理错误
-- 提高人员的管理效率
-- 提高计算机资源的使用效率<br>
+### 一种多模态组学数据管理系统 <a name="专利3"></a>
 
----
-### 一种基因测序多样本数据文件自动配对的方法和系统 <a name="专利3"></a>
-<img src="/images/应-一种基因测序多样本数据文件自动配对的方法和系统.jpg" alt="专利：一种基因测序多样本数据文件自动配对的方法和系统" width="360" height="480">
+<dir class="piccontainer">
 
-- 快速准确地配对样本数据文件
-- 区分同一样本模板链文件和互补链文件
-- 减少因人为造成的程序执行错误问题
-- 提高计算机资源的使用效率<br>
+<img src="/images/辜-一种多模态组学数据管理系统.jpg" class="leftpic" width="360" height="480">
 
----
-### 一种医学人工智能与高性能计算资源调度系统及调度方法 <a name="专利4"></a>
-<img src="/images/应-一种医学人工智能与高性能计算资源调度系统及调度方法.jpg" alt="专利：一种医学人工智能与高性能计算资源调度系统及调度方法" width="360" height="480">
-- <br>
+<p><span style="color:#74B89C;">专利发明人：</span>辜永红；应志野；<strong>陈一龙</strong>；于浩澎；赵顺存；李斌杰；张凯丽；任沛；成孝禹；葛平；周梦琳<br>
+    <span style="color:#74B89C;">授权公告日：</span>2023-10-20<br>
+    <span style="color:#74B89C;">授权公告号：</span>CN114627968B<br>
+    <span style="color:#74B89C;">专利号：</span>ZL202210271132.2<br>
+    <span style="color:#74B89C;">主要功能：</span></p>
+<p class="paragraph-with-dot">提出基于多组学数据特征和元数据标签的数据自动识别技术</p>
 
----
-### 一种基于联邦学习和区块链的医疗大数据共享方法 <a name="专利5"></a>
-<img src="/images/匡-一种基于联邦学习和区块链的医疗大数据共享方法.jpg" alt="专利：一种基于联邦学习和区块链的医疗大数据共享方法" width="360" height="480">
-- <br>
+</dir>
 
----
-### 一种多模态组学数据管理系统 <a name="专利6"></a>
-<img src="/images/辜-一种多模态组学数据管理系统.jpg" alt="专利：一种多模态组学数据管理系统" width="360" height="480">
-- <br>
-<br>
+<hr>
 
----
+
+
+### 一种基因测序多样本数据文件自动配对的方法和系统 <a name="专利4"></a>
+<dir class="piccontainer">
+
+<img src="/images/应-一种基因测序多样本数据文件自动配对的方法和系统.jpg" class="leftpic" width="360" height="480">
+
+<p><span style="color:#74B89C;">专利发明人：</span>应志野；辜永红；<strong>陈一龙</strong>；于浩澎；杨绪亮；葛平；成孝禹；盛玖；黄蓉<br>
+    <span style="color:#74B89C;">授权公告日：</span>2022-05-24<br>
+    <span style="color:#74B89C;">授权公告号：</span>CN114328399B<br>
+    <span style="color:#74B89C;">专利号：</span>ZL202210252377.0<br>
+    <span style="color:#74B89C;">主要功能：</span></p>
+<p class="paragraph-with-dot">快速准确地配对样本数据文件</p>
+<p class="paragraph-with-dot">区分同一样本模板链文件和互补链文件</p>
+<p class="paragraph-with-dot">减少因人为造成的程序执行错误问题</p>
+<p class="paragraph-with-dot">提高计算机资源的使用效率</p>
+
+</dir>
+
+<hr>
+
+
+
+### 一种医学人工智能与高性能计算资源调度系统及调度方法 <a name="专利5"></a>
+
+<dir class="piccontainer">
+
+<img src="/images/应-一种医学人工智能与高性能计算资源调度系统及调度方法.jpg" class="leftpic" width="360" height="480">
+
+<p><span style="color:#74B89C;">专利发明人：</span>应志野；李春漾；<strong>陈一龙</strong>；于浩澎；龚力；匡亚岚<br>
+    <span style="color:#74B89C;">授权公告日：</span>2022-04-26<br>
+    <span style="color:#74B89C;">授权公告号：</span>CN114185689B<br>
+    <span style="color:#74B89C;">专利号：</span>ZL202210133573.6<br>
+    <span style="color:#74B89C;">主要功能：</span></p>
+<p class="paragraph-with-dot">实现人工智能与高性能计算资源的一体化调度</p>
+<p class="paragraph-with-dot">降低建设成本</p>
+<p class="paragraph-with-dot">提升资源利用率</p>
+
+</dir>
+
+<hr>
+
+
+
+### 一种基于联邦学习和区块链的医疗大数据共享方法 <a name="专利6"></a>
+<dir class="piccontainer">
+
+<img src="/images/匡-一种基于联邦学习和区块链的医疗大数据共享方法.jpg" class="leftpic" width="360" height="480">
+
+<p><span style="color:#74B89C;">专利发明人：</span>匡亚岚；曾筱茜；何得淮；应志野；<strong>陈一龙</strong><br>
+    <span style="color:#74B89C;">授权公告日：</span>2022-03-22<br>
+    <span style="color:#74B89C;">授权公告号：</span>CN114048515B<br>
+    <span style="color:#74B89C;">专利号：</span>ZL202210026561.3<br>
+    <span style="color:#74B89C;">主要功能：</span></p>
+<p class="paragraph-with-dot">提出节点信任度评价机制</p>
+<p class="paragraph-with-dot">解决联邦学习中节点不可信问题</p>
+<p class="paragraph-with-dot">提高联邦学习准确性</p>
+<p class="paragraph-with-dot">实现医疗大数据安全且高质量的共享</p>
+
+</dir>
+
+<hr>
+
+
+
 ### ENA基因数据批量采集软件 <a name="软著1"></a>
 <img src="/images/软著-ENA基因数据批量采集软件.jpg" alt="软著：ENA基因数据批量采集软件  V1.0" width="360" height="480">
 
@@ -114,7 +181,3 @@ title: Intellectual Property
 <img src="/images/软著-AutoPheWASpeed软件.jpg" alt="软著：AutoPheWASpeed软件  V1.0" width="360" height="480">
 
 - <br>
-<!-- Calendly inline widget begin -->
-
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
