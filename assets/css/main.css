@@ -197,6 +197,7 @@ img.piccontainer {display:flex;align-items:center;}
 		vertical-align: middle;
         margin-right: 5px;		
     }
+.no-margin{margin-top: 0;}
 hr {
   clear: left;
   border: none;
