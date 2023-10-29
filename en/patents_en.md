@@ -24,8 +24,16 @@ title: Intellectual Property
 ---
 
 ### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质 <a name="专利1"></a>
-<dir class="piccontainer">
-<img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" alt="专利：高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质" width="360" height="480">
+<dir class="split">
+
+<dir class="left">
+
+<img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" width="360" height="480">
+
+<dir>
+
+<dir class="right">
+
 <p><span style="color:#74B89C;">专利发明人</span>：<strong>陈一龙</strong>；曾筱茜；应志野；于浩澎；杨丽娜；匡亚岚；辜永红；马良<br>
     <span style="color:#74B89C;">授权公告日</span>：2023-03-17<br>
     <span style="color:#74B89C;">授权公告号</span>：CN115651975B<br>
@@ -36,9 +44,11 @@ title: Intellectual Property
 <p class="paragraph-with-dot">解决当前对致病因子预筛选准确度不高的问题</p>
 
 </dir>
+
+<dir>
+
 <hr>
 
----
 ### 基因数据文件快速识别方法、系统和计算机可读存储介质 <a name="专利2"></a>
 
 <img src="/images/陈-基因数据文件快速识别方法、系统和计算机可读存储介质.jpg" alt="专利：基因数据文件快速识别方法、系统和计算机可读存储介质" width="360" height="480">
