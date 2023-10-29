@@ -36,7 +36,7 @@ title: Intellectual Property
 <p class="paragraph-with-dot">解决当前对致病因子预筛选准确度不高的问题</p>
 
 </dir>
-<br>
+<hr>
 
 ---
 ### 基因数据文件快速识别方法、系统和计算机可读存储介质 <a name="专利2"></a>
