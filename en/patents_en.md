@@ -5,20 +5,20 @@ title: Intellectual Property
 ---
 
 ## Patent
-- [Patent 1: Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease)](#Patent1)
-- [Patent 2: Fast Identification Method, System, and Computer-Readable Storage Medium for Gene Data Files](#Patent2)
-- [Patent 3: A Multimodal Omics Data Management System](#Patent3)
-- [Patent 4: Method and System for Automatic Pairing of Gene Sequencing Multisample Data Files](#Patent4)
-- [Patent 5: Medical Artificial Intelligence and High-Performance Computing Resource Scheduling System and Method](#Patent5)
-- [Patent 6: Medical Big Data Sharing Method Based on Federated Learning and Blockchain](#Patent6)
+- [<span style="color:#74B89C;">Patent 1:</span> Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease)](#Patent1)
+- [<span style="color:#74B89C;">Patent 2:</span> Fast Identification Method, System, and Computer-Readable Storage Medium for Gene Data Files](#Patent2)
+- [<span style="color:#74B89C;">Patent 3:</span> A Multimodal Omics Data Management System](#Patent3)
+- [<span style="color:#74B89C;">Patent 4:</span> Method and System for Automatic Pairing of Gene Sequencing Multisample Data Files](#Patent4)
+- [<span style="color:#74B89C;">Patent 5:</span> Medical Artificial Intelligence and High-Performance Computing Resource Scheduling System and Method](#Patent5)
+- [<span style="color:#74B89C;">Patent 6:</span> Medical Big Data Sharing Method Based on Federated Learning and Blockchain](#Patent6)
 
 
 ## Software Copyright
-- [Software Copyright 1: Automated GWAS Analysis Software Accelerated by HPC Multicore Parallelism](#SoftwareCopyright1)
-- [Software Copyright 2: AutoPheWASpeed Software](#SoftwareCopyright2)
-- [Software Copyright 3: APEAMGA Software](#SoftwareCopyright3)
-- [Software Copyright 4: Vennux Software](#SoftwareCopyright4)
-- [Software Copyright 5: ENA Gene Data Batch Collection Software](#SoftwareCopyright5)
+- [<span style="color:#DF9599;">Software Copyright 1:</span> Automated GWAS Analysis Software Accelerated by HPC Multicore Parallelism](#SoftwareCopyright1)
+- [<span style="color:#DF9599;">Software Copyright 2:</span> AutoPheWASpeed Software](#SoftwareCopyright2)
+- [<span style="color:#DF9599;">Software Copyright 3:</span> APEAMGA Software](#SoftwareCopyright3)
+- [<span style="color:#DF9599;">Software Copyright 4:</span> Vennux Software](#SoftwareCopyright4)
+- [<span style="color:#DF9599;">Software Copyright 5:</span> ENA Gene Data Batch Collection Software](#SoftwareCopyright5)
   <br>
 
 ---
@@ -28,7 +28,7 @@ title: Intellectual Property
 
 <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#74B89C;">Inventors:</span><strong>Chen Yilong</strong>; Zeng Xiaoxi; Ying Zhiye; Yu Haopeng; Yang Lina; Kuang Yalan; Gu Yonghong; Ma Liang<br>
+<p><span style="color:#74B89C;">Inventors:</span><strong> Chen Yilong</strong>; Zeng Xiaoxi; Ying Zhiye; Yu Haopeng; Yang Lina; Kuang Yalan; Gu Yonghong; Ma Liang<br>
     <span style="color:#74B89C;">Patent Number:</span> ZL202211459944.6<br>
     <span style="color:#74B89C;">Patent Type:</span> Invention Patent<br>
     <span style="color:#74B89C;">Grant Date:</span> March 17, 2023<br>
