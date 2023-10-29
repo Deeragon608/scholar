@@ -194,7 +194,6 @@ img.piccontainer p{margin: 0;padding: 0;}
 .paragraph-with-dot::before {
         content: "\2022";
         display: inline-block;
-		width: 1em;
 		vertical-align: middle;
         margin-right: 5px;		
     }
