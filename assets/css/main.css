@@ -195,9 +195,9 @@ img.piccontainer {display:flex;align-items:center;}
         content: "\2022";
         display: inline-block;
 		vertical-align: middle;
-        margin-right: 5px;		
+        margin-right: 5px;	
+margin-top: 0;		
     }
-.no-margin{margin-top: 0;}
 hr {
   clear: left;
   border: none;
