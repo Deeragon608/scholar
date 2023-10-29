@@ -226,7 +226,7 @@ title: Intellectual Property
     <span style="color:#DF9599;">证书号：</span>软著登字第7326222号<br>
     <span style="color:#DF9599;">主要功能：</span></p>
 <p class="paragraph-with-dot">通过Linux系统对基因组学大数据进行韦恩图绘制</p>
-<p class="paragraph-with-dot">解决因组学数据庞大而无法在Windows系统上实现韦恩图绘制的问题</p>
+<p class="paragraph-with-dot">解决因数据庞大无法在Windows系统上绘制韦恩图的问题</p>
 
 </dir>
 
