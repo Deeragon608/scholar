@@ -4,38 +4,39 @@ permalink: /en/patents_en/index.html
 title: Intellectual Property
 ---
 
-## Patents
-- [专利1：高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质](#专利1)
-- [专利2：基因数据文件快速识别方法、系统和计算机可读存储介质](#专利2)
-- [专利3：一种多模态组学数据管理系统](#专利3)
-- [专利4：一种基因测序多样本数据文件自动配对的方法和系统](#专利4)
-- [专利5：一种医学人工智能与高性能计算资源调度系统及调度方法](#专利5)
-- [专利6：一种基于联邦学习和区块链的医疗大数据共享方法](#专利6)
+## Patent
+- [Patent 1: Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease)](#Patent1)
+- [Patent 2: Fast Identification Method, System, and Computer-Readable Storage Medium for Gene Data Files](#Patent2)
+- [Patent 3: A Multimodal Omics Data Management System](#Patent3)
+- [Patent 4: Method and System for Automatic Pairing of Gene Sequencing Multisample Data Files](#Patent4)
+- [Patent 5: Medical Artificial Intelligence and High-Performance Computing Resource Scheduling System and Method](#Patent5)
+- [Patent 6: Medical Big Data Sharing Method Based on Federated Learning and Blockchain](#Patent6)
 
 
 ## Software Copyright
-- [软著1：基于HPC多核并行加速的自动化GWAS分析软件](#软著1)
-- [软著2：AutoPheWASpeed软件](#软著2)
-- [软著3：APEAMGA软件](#软著3)
-- [软著4：Vennux软件](#软著4)
-- [软著5：ENA基因数据批量采集软件](#软著5)
+- [Software Copyright 1: Automated GWAS Analysis Software Accelerated by HPC Multicore Parallelism](#SoftwareCopyright1)
+- [Software Copyright 2: AutoPheWASpeed Software](#SoftwareCopyright2)
+- [Software Copyright 3: APEAMGA Software](#SoftwareCopyright3)
+- [Software Copyright 4: Vennux Software](#SoftwareCopyright4)
+- [Software Copyright 5: ENA Gene Data Batch Collection Software](#SoftwareCopyright5)
   <br>
 
 ---
 
-### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质 <a name="专利1"></a>
+### Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease <a name="Patent1"></a>
 <dir class="piccontainer">
 
 <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#74B89C;">专利发明人：</span><strong>陈一龙</strong>；曾筱茜；应志野；于浩澎；杨丽娜；匡亚岚；辜永红；马良<br>
-    <span style="color:#74B89C;">授权公告日：</span>2023-03-17<br>
-    <span style="color:#74B89C;">授权公告号：</span>CN115651975B<br>
-    <span style="color:#74B89C;">专利号：</span>ZL202211459944.6<br>
-    <span style="color:#74B89C;">主要功能：</span></p>
-<p class="paragraph-with-dot">集成TAD重组的多组学分析与转录因子基序富集分析</p>
-<p class="paragraph-with-dot">实现一种新的高尿酸血症肾脏病致病因子的预筛选方法</p>
-<p class="paragraph-with-dot">解决当前对致病因子预筛选准确度不高的问题</p>
+<p><span style="color:#74B89C;">Inventors:</span><strong>Chen Yilong</strong>; Zeng Xiaoxi; Ying Zhiye; Yu Haopeng; Yang Lina; Kuang Yalan; Gu Yonghong; Ma Liang<br>
+    <span style="color:#74B89C;">Patent Number:</span> ZL202211459944.6<br>
+    <span style="color:#74B89C;">Patent Type:</span> Invention Patent<br>
+    <span style="color:#74B89C;">Grant Date:</span> March 17, 2023<br>
+    <span style="color:#74B89C;">Grant Number:</span> CN115651975B<br>
+    <span style="color:#74B89C;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Integrated multi-omics analysis with TAD recombination and transcription factor motif enrichment analysis</p>
+<p class="paragraph-with-dot">Realizes a new pre-screening method for pathogenic factors of hyperuricemia kidney disease</p>
+<p class="paragraph-with-dot">Addresses the problem of low accuracy in current pre-screening of pathogenic factors</p>
 
 </dir>
 
@@ -43,21 +44,22 @@ title: Intellectual Property
 
 
 
-### 基因数据文件快速识别方法、系统和计算机可读存储介质 <a name="专利2"></a>
+### Fast Identification Method, System, and Computer-Readable Storage Medium for Gene Data Files <a name="Patent2"></a>
 
 <dir class="piccontainer">
 
 <img src="/images/陈-基因数据文件快速识别方法、系统和计算机可读存储介质.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#74B89C;">专利发明人：</span><strong>陈一龙</strong>；应志野；辜永红；于浩澎；杨绪亮；葛平；成孝禹；于鹏佳；程岭；黄蓉<br>
-    <span style="color:#74B89C;">授权公告日：</span>2023-02-03<br>
-    <span style="color:#74B89C;">授权公告号：</span>CN115391284B<br>
-    <span style="color:#74B89C;">专利号：</span>ZL202211347438.8<br>
-    <span style="color:#74B89C;">主要功能：</span></p>
-<p class="paragraph-with-dot">准确、简便和高效地识别和查找基因数据文件</p>
-<p class="paragraph-with-dot">减少因人为造成的管理错误</p>
-<p class="paragraph-with-dot">提高计算机资源的使用效率</p>
-<p class="paragraph-with-dot">提高人员的管理效率</p>
+<p><span style="color:#74B89C;">Inventors:</span><strong> Chen Yilong</strong>; Ying Zhiye; Gu Yonghong; Yu Haopeng; Yang Xuliang; Ge Ping; Cheng Xiaoyu; Yu Pengjia; Cheng Ling; Huang Rong<br>
+    <span style="color:#74B89C;">Patent Number:</span> ZL202211347438.8<br>
+    <span style="color:#74B89C;">Patent Type:</span> Invention Patent<br>
+    <span style="color:#74B89C;">Grant Date:</span> February 3, 2023<br>
+    <span style="color:#74B89C;">Grant Number:</span> CN115391284B<br>
+    <span style="color:#74B89C;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Accurately, conveniently, and efficiently identify and search for genetic data files</p>
+<p class="paragraph-with-dot">Reduce management errors caused by human factors</p>
+<p class="paragraph-with-dot">Improve the efficiency of computer resource utilization</p>
+<p class="paragraph-with-dot">Enhance personnel management efficiency</p>
 
 </dir>
 
@@ -65,18 +67,19 @@ title: Intellectual Property
 
 
 
-### 一种多模态组学数据管理系统 <a name="专利3"></a>
+### A Multimodal Omics Data Management System <a name="Patent3"></a>
 
 <dir class="piccontainer">
 
 <img src="/images/辜-一种多模态组学数据管理系统.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#74B89C;">专利发明人：</span>辜永红；应志野；<strong>陈一龙</strong>；于浩澎；赵顺存；李斌杰；张凯丽；任沛；成孝禹；葛平；周梦琳<br>
-    <span style="color:#74B89C;">授权公告日：</span>2023-10-20<br>
-    <span style="color:#74B89C;">授权公告号：</span>CN114627968B<br>
-    <span style="color:#74B89C;">专利号：</span>ZL202210271132.2<br>
-    <span style="color:#74B89C;">主要功能：</span></p>
-<p class="paragraph-with-dot">提出基于多组学数据特征和元数据标签的数据自动识别技术</p>
+<p><span style="color:#74B89C;">Inventors:</span> Gu Yonghong; Ying Zhiye; <strong>Chen Yilong</strong>; Yu Haopeng; Zhao Shuncun; Li Binjie; Zhang Kaili; Ren Pei; Cheng Xiaoyu; Ge Ping; Zhou Menglin<br>
+    <span style="color:#74B89C;">Patent Number:</span> ZL202210271132.2<br>
+    <span style="color:#74B89C;">Patent Type:</span> Invention Patent<br>
+    <span style="color:#74B89C;">Grant Date:</span> October 20, 2023<br>
+    <span style="color:#74B89C;">Grant Number:</span> CN114627968B<br>
+    <span style="color:#74B89C;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Proposing an automatic data identification technique based on multi-omics data features and metadata tags</p>
 
 </dir>
 
@@ -84,20 +87,21 @@ title: Intellectual Property
 
 
 
-### 一种基因测序多样本数据文件自动配对的方法和系统 <a name="专利4"></a>
+### Method and System for Automatic Pairing of Gene Sequencing Multisample Data Files <a name="Patent4"></a>
 <dir class="piccontainer">
 
 <img src="/images/应-一种基因测序多样本数据文件自动配对的方法和系统.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#74B89C;">专利发明人：</span>应志野；辜永红；<strong>陈一龙</strong>；于浩澎；杨绪亮；葛平；成孝禹；盛玖；黄蓉<br>
-    <span style="color:#74B89C;">授权公告日：</span>2022-05-24<br>
-    <span style="color:#74B89C;">授权公告号：</span>CN114328399B<br>
-    <span style="color:#74B89C;">专利号：</span>ZL202210252377.0<br>
-    <span style="color:#74B89C;">主要功能：</span></p>
-<p class="paragraph-with-dot">快速准确地配对样本数据文件</p>
-<p class="paragraph-with-dot">区分同一样本模板链文件和互补链文件</p>
-<p class="paragraph-with-dot">减少因人为造成的程序执行错误问题</p>
-<p class="paragraph-with-dot">提高计算机资源的使用效率</p>
+<p><span style="color:#74B89C;">Inventors:</span> Ying Zhiye; Gu Yonghong; <strong>Chen Yilong</strong>; Yu Haopeng; Yang Xuliang; Ge Ping; Cheng Xiaoyu; Sheng Jiu; Huang Rong<br>
+    <span style="color:#74B89C;">Patent Number:</span> ZL202210252377.0<br>
+    <span style="color:#74B89C;">Patent Type:</span> Invention Patent<br>
+    <span style="color:#74B89C;">Grant Date:</span> May 24, 2022<br>
+    <span style="color:#74B89C;">Grant Number:</span> CN114328399B<br>
+    <span style="color:#74B89C;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Rapid and accurate pairing of sample data files</p>
+<p class="paragraph-with-dot">Distinguishing between the same sample template chain file and complementary chain file</p>
+<p class="paragraph-with-dot">Reducing program execution errors caused by human factors</p>
+<p class="paragraph-with-dot">Improving the efficiency of computer resource utilization</p>
 
 </dir>
 
@@ -105,20 +109,21 @@ title: Intellectual Property
 
 
 
-### 一种医学人工智能与高性能计算资源调度系统及调度方法 <a name="专利5"></a>
+### Medical Artificial Intelligence and High-Performance Computing Resource Scheduling System and Method <a name="Patent5"></a>
 
 <dir class="piccontainer">
 
 <img src="/images/应-一种医学人工智能与高性能计算资源调度系统及调度方法.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#74B89C;">专利发明人：</span>应志野；李春漾；<strong>陈一龙</strong>；于浩澎；龚力；匡亚岚<br>
-    <span style="color:#74B89C;">授权公告日：</span>2022-04-26<br>
-    <span style="color:#74B89C;">授权公告号：</span>CN114185689B<br>
-    <span style="color:#74B89C;">专利号：</span>ZL202210133573.6<br>
-    <span style="color:#74B89C;">主要功能：</span></p>
-<p class="paragraph-with-dot">实现人工智能与高性能计算资源的一体化调度</p>
-<p class="paragraph-with-dot">降低建设成本</p>
-<p class="paragraph-with-dot">提升资源利用率</p>
+<p><span style="color:#74B89C;">Inventors:</span> Ying Zhiye; Li Chunyang; <strong>Chen Yilong</strong>; Yu Haopeng; Gong Li; Kuang Yalan<br>
+    <span style="color:#74B89C;">Patent Number:</span> ZL202210133573.6<br>
+    <span style="color:#74B89C;">Patent Type:</span> Invention Patent<br>
+    <span style="color:#74B89C;">Grant Date:</span> April 26, 2022<br>
+    <span style="color:#74B89C;">Grant Number:</span> CN114185689B<br>
+    <span style="color:#74B89C;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Integrate scheduling of artificial intelligence and high-performance computing resources</p>
+<p class="paragraph-with-dot">Reduce construction costs</p>
+<p class="paragraph-with-dot">Enhance resource utilization</p>
 
 </dir>
 
@@ -126,42 +131,43 @@ title: Intellectual Property
 
 
 
-### 一种基于联邦学习和区块链的医疗大数据共享方法 <a name="专利6"></a>
+### Medical Big Data Sharing Method Based on Federated Learning and Blockchain <a name="Patent6"></a>
 <dir class="piccontainer">
 
 <img src="/images/匡-一种基于联邦学习和区块链的医疗大数据共享方法.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#74B89C;">专利发明人：</span>匡亚岚；曾筱茜；何得淮；应志野；<strong>陈一龙</strong><br>
-    <span style="color:#74B89C;">授权公告日：</span>2022-03-22<br>
-    <span style="color:#74B89C;">授权公告号：</span>CN114048515B<br>
-    <span style="color:#74B89C;">专利号：</span>ZL202210026561.3<br>
-    <span style="color:#74B89C;">主要功能：</span></p>
-<p class="paragraph-with-dot">提出节点信任度评价机制</p>
-<p class="paragraph-with-dot">解决联邦学习中节点不可信问题</p>
-<p class="paragraph-with-dot">提高联邦学习准确性</p>
-<p class="paragraph-with-dot">实现医疗大数据安全且高质量的共享</p>
+<p><span style="color:#74B89C;">Inventors:</span> Kuang Yalan; Zeng Xiaoxi; He Dehuai; Ying Zhiye; <strong>Chen Yilong</strong><br>
+    <span style="color:#74B89C;">Patent Number:</span> ZL202210026561.3<br>
+    <span style="color:#74B89C;">Patent Type:</span> Invention Patent<br>
+    <span style="color:#74B89C;">Grant Date:</span> March 22, 2022<br>
+    <span style="color:#74B89C;">Grant Number:</span> CN114048515B<br>
+    <span style="color:#74B89C;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Proposed node trustworthiness evaluation mechanism</p>
+<p class="paragraph-with-dot">Addressed the issue of untrustworthy nodes in federated learning</p>
+<p class="paragraph-with-dot">Improved the accuracy of federated learning</p>
+<p class="paragraph-with-dot">Achieved secure and high-quality sharing of medical big data</p>
 
 </dir>
 
 <hr>
 
 
-### 基于HPC多核并行加速的自动化GWAS分析软件 <a name="软著1"></a>
+### Automated GWAS Analysis Software Accelerated by HPC Multicore Parallelism <a name="SoftwareCopyright1"></a>
 
 <dir class="piccontainer">
 
 <img src="/images/软著-基于HPC多核并行加速的自动化GWAS分析软件.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#DF9599;">开发人员：</span><strong>陈一龙</strong>；李春漾；应志野；匡亚岚；张超；曾筱茜<br>
-    <span style="color:#DF9599;">获批日期：</span>2023-09-11<br>
-    <span style="color:#DF9599;">登记号：</span>2023SR1042097<br>
-    <span style="color:#DF9599;">证书号：</span>软著登字第11629270号<br>
-    <span style="color:#DF9599;">主要功能：</span></p>
-<p class="paragraph-with-dot">高效并行计算</p>
-<p class="paragraph-with-dot">自动检漏补算</p>
-<p class="paragraph-with-dot">自定义排除SNP</p>
-<p class="paragraph-with-dot">自动任务提交</p>
-<p class="paragraph-with-dot">自动结果汇总</p>
+<p><span style="color:#DF9599;">Developers:</span><strong>Chen Yilong</strong>; Li Chunyang; Ying Zhiye; Kuang Yalan; Zhang Chao; Zeng Xiaoxi<br>
+    <span style="color:#DF9599;">Approval Date:</span> September 11, 2023<br>
+    <span style="color:#DF9599;">Registration Number:</span> 2023SR1042097<br>
+    <span style="color:#DF9599;">Certificate Number:</span> Software Registration No. 11629270<br>
+    <span style="color:#DF9599;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Efficient Parallel Computing</p>
+<p class="paragraph-with-dot">Automatic Leak Detection and Repair</p>
+<p class="paragraph-with-dot">Customizable SNP Exclusion</p>
+<p class="paragraph-with-dot">Automatic Task Submission</p>
+<p class="paragraph-with-dot">Automatic Result Aggregation</p>
 
 </dir>
 
@@ -169,22 +175,22 @@ title: Intellectual Property
 
 
 
-### AutoPheWASpeed软件 <a name="软著2"></a>
+### AutoPheWASpeed Software <a name="SoftwareCopyright2"></a>
 
 <dir class="piccontainer">
 
 <img src="/images/软著-AutoPheWASpeed软件.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#DF9599;">开发人员：</span><strong>陈一龙</strong>；李春漾；应志野；匡亚岚；张超；曾筱茜<br>
-    <span style="color:#DF9599;">获批日期：</span>2023-09-11<br>
-    <span style="color:#DF9599;">登记号：</span>2023SR1042093<br>
-    <span style="color:#DF9599;">证书号：</span>软著登字第11629266号<br>
-    <span style="color:#DF9599;">主要功能：</span></p>
-<p class="paragraph-with-dot">高效并行计算</p>
-<p class="paragraph-with-dot">两种PheWAS计算模式</p>
-<p class="paragraph-with-dot">任务提交数量管控</p>
-<p class="paragraph-with-dot">自动任务提交</p>
-<p class="paragraph-with-dot">自动结果汇总</p>
+<p><span style="color:#DF9599;">Developers:</span><strong> Chen Yilong</strong>; Li Chunyang; Ying Zhiye; Kuang Yalan; Zhang Chao; Zeng Xiaoxi<br>
+    <span style="color:#DF9599;">Approval Date:</span> September 11, 2023<br>
+    <span style="color:#DF9599;">Registration Number:</span> 2023SR1042093<br>
+    <span style="color:#DF9599;">Certificate Number:</span> Software Registration No. 11629266<br>
+    <span style="color:#DF9599;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Efficient Parallel Computing</p>
+<p class="paragraph-with-dot">Two PheWAS Calculation Modes</p>
+<p class="paragraph-with-dot">Task Submission Quantity Control</p>
+<p class="paragraph-with-dot">Automatic Task Submission</p>
+<p class="paragraph-with-dot">Automatic Result Aggregation</p>
 
 </dir>
 
@@ -192,21 +198,21 @@ title: Intellectual Property
 
 
 
-### APEAMGA软件 <a name="软著3"></a>
+### APEAMGA Software <a name="SoftwareCopyright3"></a>
 
 <dir class="piccontainer">
 
 <img src="/images/软著-APEAMGA软件.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#DF9599;">开发人员：</span><strong>陈一龙</strong>；曾筱茜；胡耀<br>
-    <span style="color:#DF9599;">获批日期：</span>2021-05-21<br>
-    <span style="color:#DF9599;">登记号：</span>2021SR0734178<br>
-    <span style="color:#DF9599;">证书号：</span>软著登字第7456804号<br>
-    <span style="color:#DF9599;">主要功能：</span></p>
-<p class="paragraph-with-dot">采用广义加性模型自动化分析基因大数据的显著影响因素</p>
-<p class="paragraph-with-dot">基于组别自动化进行亚组分析</p>
-<p class="paragraph-with-dot">减少影响因素分析流程</p>
-<p class="paragraph-with-dot">更快速地获得基因数据分析结论及可视化结果</p>
+<p><span style="color:#DF9599;">Developers:</span><strong> Chen Yilong</strong>; Zeng Xiaoxi; Hu Yao<br>
+    <span style="color:#DF9599;">Approval Date:</span> May 21, 2021<br>
+    <span style="color:#DF9599;">Registration Number:</span> 2021SR0734178<br>
+    <span style="color:#DF9599;">Certificate Number:</span> Software Registration No. 7456804<br>
+    <span style="color:#DF9599;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Automated analysis of significant influencing factors in gene big data using generalized additive models</p>
+<p class="paragraph-with-dot">Automated subgroup analysis based on groups</p>
+<p class="paragraph-with-dot">Streamlining the influencing factor analysis process</p>
+<p class="paragraph-with-dot">Faster acquisition of gene data analysis conclusions and visualization results</p>
 
 </dir>
 
@@ -214,19 +220,19 @@ title: Intellectual Property
 
 
 
-### Vennux软件 <a name="软著4"></a>
+### Vennux Software <a name="SoftwareCopyright4"></a>
 
 <dir class="piccontainer">
 
 <img src="/images/软著-vennux.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#DF9599;">开发人员：</span><strong>陈一龙</strong>；于浩澎；曾筱茜；杨晓妍；李春漾；应志野；孙雅婧；辜永红<br>
-    <span style="color:#DF9599;">获批日期：</span>2021-04-26<br>
-    <span style="color:#DF9599;">登记号：</span>2021SR0603596<br>
-    <span style="color:#DF9599;">证书号：</span>软著登字第7326222号<br>
-    <span style="color:#DF9599;">主要功能：</span></p>
-<p class="paragraph-with-dot">通过Linux系统对基因组学大数据进行韦恩图绘制</p>
-<p class="paragraph-with-dot">解决因数据庞大无法在Windows系统上绘制韦恩图的问题</p>
+<p><span style="color:#DF9599;">Developers:</span> <strong>Chen Yilong</strong>; Yu Haopeng; Zeng Xiaoxi; Yang Xiaoyan; Li Chunyang; Ying Zhiye; Sun Yajing; Gu Yonghong<br>
+<span style="color:#DF9599;">Approval Date:</span> April 26, 2021<br>
+<span style="color:#DF9599;">Registration Number:</span> 2021SR0603596<br>
+<span style="color:#DF9599;">Certificate Number:</span> Software Registration No. 7326222<br>
+<span style="color:#DF9599;">Main Function:</span></p>
+<p class="paragraph-with-dot">Generate Venn diagrams for genomic big data using the Linux system</p>
+<p class="paragraph-with-dot">Address the issue of being unable to generate Venn diagrams on Windows systems due to the massive size of the data</p>
 
 </dir>
 
@@ -234,20 +240,20 @@ title: Intellectual Property
 
 
 
-### ENA基因数据批量采集软件 <a name="软著5"></a>
+### ENA Gene Data Batch Collection Software <a name="SoftwareCopyright5"></a>
 
 <dir class="piccontainer">
 
 <img src="/images/软著-ENA基因数据批量采集软件.jpg" class="leftpic" width="360" height="480">
 
-<p><span style="color:#DF9599;">开发人员：</span>应志野；于浩澎；曾筱茜；李春漾；<strong>陈一龙</strong>；孙雅婧；辜永红<br>
-    <span style="color:#DF9599;">获批日期：</span>2021-04-26<br>
-    <span style="color:#DF9599;">登记号：</span>2021SR0597215<br>
-    <span style="color:#DF9599;">证书号：</span>软著登字第7319841号<br>
-    <span style="color:#DF9599;">主要功能：</span></p>
-<p class="paragraph-with-dot">根据ENA数据库项目编号批量获取项目数据下载信息</p>
-<p class="paragraph-with-dot">自动生成校验文件和下载脚本</p>
-<p class="paragraph-with-dot">降低手动查找ENA项目获取下载链接所投入大量人力和时间</p>
+<p><span style="color:#DF9599;">Developers:</span> Ying Zhiye; Yu Haopeng; Zeng Xiaoxi; Li Chunyang; <strong>Chen Yilong</strong>; Sun Yajing; Gu Yonghong<br>
+    <span style="color:#DF9599;">Approval Date:</span> April 26, 2021<br>
+    <span style="color:#DF9599;">Registration Number:</span> 2021SR0597215<br>
+    <span style="color:#DF9599;">Certificate Number:</span> Software Registration No. 7319841<br>
+    <span style="color:#DF9599;">Main Functions:</span></p>
+<p class="paragraph-with-dot">Batch retrieval of project data download information based on ENA database project numbers</p>
+<p class="paragraph-with-dot">Automatic generation of validation files and download scripts</p>
+<p class="paragraph-with-dot">Reduction of manual effort and time spent on searching ENA project data for download links</p>
 
 </dir>
 
