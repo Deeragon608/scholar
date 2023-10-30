@@ -3,6 +3,7 @@ title: Yilong Chen
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://scholar.deeragon.cn
+baseurl: https://scholar.deeragon.cn/cn/index
 
 # Owner/author information
 owner:
