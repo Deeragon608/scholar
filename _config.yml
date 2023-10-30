@@ -51,6 +51,7 @@ en_links:
 cn_links:
   - title: 个人介绍
     url: /cn/index/
+    url: /
   - title: 科研成果
     url: /cn/publications/
   - title: 基金资助
