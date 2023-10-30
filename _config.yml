@@ -47,7 +47,7 @@ default_lang: cn
 # For external links add external: true
 links:
   - title: Introduction
-    url: /en/index/
+    url: /en/
   - title: Publications
     url: /en/publications_en/
   - title: Fundings
@@ -57,7 +57,7 @@ links:
   - title: Awards
     url: /en/awards_en/
   - title: 个人介绍
-    url: /cn/index/
+    url: /cn/
   - title: 科研成果
     url: /cn/publications_cn/
   - title: 基金资助
