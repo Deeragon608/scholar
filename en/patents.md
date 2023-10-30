@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /en/patents_en/index.html
+permalink: /en/patents/
 title: Intellectual Property
 lang: en
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /en/fundings_en/
+permalink: /en/fundings/
 title: Fundings
 lang: en
 ---
