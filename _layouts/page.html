@@ -24,15 +24,16 @@
 
 <script>
 	document.addEventListener("DOMContentLoaded", function() {
-		const langLinks = document.querySelectorAll(".top-navigation a");
-		langLinks.forEach(function(link) {
-			link.addEventListener("click", function(event) {
-				event.preventDefault();
-				const lang = link.getAttribute("href").split("/")[1]; // 获取点击的语言
-				window.location.href = window.location.pathname.replace(/\/(en|cn)\//, `/${lang}/`); // 切换语言并跳转页面
-			});
-		});
-	});
+    const langLinks = document.querySelectorAll(".top-navigation a");
+    langLinks.forEach(function(link) {
+        link.addEventListener("click", function(event) {
+            event.preventDefault();
+            const lang = link.getAttribute("href").split("/")[1]; // 获取点击的语言
+            // 根据点击的语言参数跳转到对应语言版本的主页
+            window.location.href = `/${lang}/index.html`;
+        });
+    });
+});
 </script>
 
 </head>
