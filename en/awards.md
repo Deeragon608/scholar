@@ -22,6 +22,6 @@ lang: en
 
 - **Second Prize** in the First Stage of the "Certification Cup" Mathematical Modeling Network Challenge, National Competition<br>
 - **Third Prize** in the Second Stage of the "Certification Cup" Mathematical Modeling Network Challenge, National Competition<br>
-- **Third Prize** in the Sichuan Division of the National College Student Mathematical Modeling Competition<br>
+- **Third Prize** in the Sichuan Province of the National College Student Mathematical Modeling Competition<br>
 - **Third Prize** in the 4th "Innovation Cup" College Student Mathematical Modeling Challenge<br>
 - **Third Prize** in the 10th "Wu Yi" Mathematical Modeling League<br>
