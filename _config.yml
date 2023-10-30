@@ -40,25 +40,25 @@ en_links:
   - title: Introduction
     url: /en/
   - title: Publications
-    url: /en/publications_en/
+    url: /en/publications/
   - title: Fundings
-    url: /en/fundings_en/
+    url: /en/fundings/
   - title: Patents
-    url: /en/patents_en/
+    url: /en/patents/
   - title: Awards
-    url: /en/awards_en/
+    url: /en/awards/
 
 cn_links:
   - title: 个人介绍
     url: /cn/
   - title: 科研成果
-    url: /cn/publications_cn/
+    url: /cn/publications/
   - title: 基金资助
-    url: /cn/fundings_cn/
+    url: /cn/fundings/
   - title: 知识产权
-    url: /cn/patents_cn/
+    url: /cn/patents/
   - title: 荣誉
-    url: /cn/awards_cn/
+    url: /cn/awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
