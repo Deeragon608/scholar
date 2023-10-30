@@ -5,7 +5,7 @@ title: Intellectual Property
 ---
 
 ## Patent
-- [<span style="color:#74B89C;">Patent 1:</span> Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease)](#Patent1)
+- [<span style="color:#74B89C;">Patent 1:</span> Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease](#Patent1)
 - [<span style="color:#74B89C;">Patent 2:</span> Fast Identification Method, System, and Computer-Readable Storage Medium for Gene Data Files](#Patent2)
 - [<span style="color:#74B89C;">Patent 3:</span> A Multimodal Omics Data Management System](#Patent3)
 - [<span style="color:#74B89C;">Patent 4:</span> Method and System for Automatic Pairing of Gene Sequencing Multisample Data Files](#Patent4)
