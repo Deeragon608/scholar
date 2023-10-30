@@ -5,8 +5,6 @@ title: Awards
 lang: en
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
-
 ## Scholarships
 
 - August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
