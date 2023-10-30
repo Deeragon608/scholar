@@ -2,6 +2,7 @@
 layout: page
 permalink: /en/fundings_en/index.html
 title: Fundings
+lang: en
 ---
 
 **Funds** (from 2019 to present)<br>
