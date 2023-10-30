@@ -22,6 +22,19 @@
   gtag('config', 'G-T5N5JY1E21');
 </script>
 
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		const langLinks = document.querySelectorAll(".top-navigation a");
+		langLinks.forEach(function(link) {
+			link.addEventListener("click", function(event) {
+				event.preventDefault();
+				const lang = link.getAttribute("href").split("/")[1]; // 获取点击的语言
+				window.location.href = window.location.pathname.replace(/\/(en|cn)\//, `/${lang}/`); // 切换语言并跳转页面
+			});
+		});
+	});
+</script>
+
 </head>
 
 
