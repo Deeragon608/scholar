@@ -2,6 +2,7 @@
 layout: page
 permalink: /cn/fundings_cn/index.html
 title: 基金资助
+lang: cn
 ---
 
 **基金资助** (2019年至今)：<br>

@@ -5,7 +5,7 @@ title: Index
 lang: cn
 ---
 
-## About me
+## 个人介绍
 
 <img src="/images/chenyilong.jpg" class="floatpic" width="360" height="480">
 

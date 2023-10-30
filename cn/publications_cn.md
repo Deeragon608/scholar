@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /cn/publications_cn/index.html
-title: 文章发表
+title: 科研成果
+lang: cn
 ---
 
 **主要科研成果** (2019年至今)<br>
@@ -22,7 +23,7 @@ title: 文章发表
 - Lulu Liu<sup>#</sup>, Xiaoling Yao<sup>#</sup>, Ying Peng, Weina Huang, Shi Jun, Hong Qian, **Yilong Chen** & Yingqiang Guo<sup>\*</sup> (2022). One-year outcome after transcatheter aortic valve replacement for aortic regurgitation: A single-center study. *Journal of Cardiac Surgery, 37*(4):882-892. <a href="https://doi.org/10.1111/jocs.16238" style="color:#0000FF;">doi:10.1111/jocs.16238</a>
 - Ting Yin, **Yilong Chen**, Lei Tang, Huaihong Yuan<sup>\*</sup>, Xiaoxi Zeng<sup>\*</sup> & Ping Fu (2022). Relationship between modifiable lifestyle factors and chronic kidney disease: A bibliometric analysis of top-cited publications from 2011 to 2020. *BMC Nephrology, 23*(1):120. <a href="https://doi.org/10.1186/s12882-022-02745-3" style="color:#0000FF;">doi:10.1186/s12882-022-02745-3</a>
 - 李景宇, **陈一龙**, 龚力, 唐正, 马晓碗, 张睿, 李东泽<sup>\*</sup>, 万智<sup>\*</sup> (2022). 中国罕见病诊后医疗服务困境和智慧医疗助力对策分析. *华西医学, 37*(1):82-96. <a href="http://www.wcjm.org/article/10.7507/1002-0179.202111051" style="color:#0000FF;">doi:10.7507/1002-0179.202111051</a><br>
- 
+
 ---
 ### 2021
 - Huan Tong, Can Gan, Bo Wei, Zhidong Wang, Xiaodan Li, Shuaijie Qian, Hui Huan, Linhao Zhang, Zhu Yang, **Yilong Chen**, Yonghong Gu, Liuxiang Chen, Yuhang Yang, Hao Wu<sup>\*</sup> & Chengwei Tang<sup>\*</sup> (2021). Risk factors for overt hepatic encephalopathy after transjugular intrahepatic portosystemic shunt creation in patients with liver cirrhosis. *Journal of Digestive Diseases, 22*(01):31-40. <a href="https://doi.org/10.1111/1751-2980.12957" style="color:#0000FF;">doi:10.1111/1751-2980.12957</a>
@@ -32,14 +33,14 @@ title: 文章发表
 - **陈一龙**, 崔欢欢, 辜永红<sup>\*</sup>, 孙麟 (2021). 某大型综合医院心房颤动住院费用分析及管控建议. *中国医疗保险,* (4):59-62. <a href="https://d.wanfangdata.com.cn/periodical/zgylbx202104022" style="color:#0000FF;">doi:10.19546/j.issn.1674-3830.2021.4.014</a>
 - 龚力, 何谦, 李景宇, 李东泽, **陈一龙**, 万智<sup>\*</sup> (2021). 罕见病新型管理模式探索与实践的华西经验. *华西医学, 36*(12):1726-1729. <a href="http://www.wcjm.org/article/10.7507/1002-0179.202110185" style="color:#0000FF;">doi:10.7507/1002-0179.202110185</a>
 - 苟莉<sup>\*</sup>, **陈一龙** (2021). 替代计量学视角下医学与健康科学热点论文特征分析及启示. *预防医学情报杂志, 37*(4):580-587. <br>
- 
+
 ---
 ### 2020
 - **Yilong Chen<sup>#</sup>**, Yiting Dong<sup>#</sup>, Yu Zeng<sup>#</sup>, Xiaoyan Yang<sup>\*</sup>, Jiantong Shen, Lang Zheng, Jingwen Jiang, Liming Pu, Qilin Bao (2020). Mapping of diseases from clinical medicine research-a visualization study. *Scientometrics, 125*(1):171-185. <a href="https://doi.org/10.1007/s11192-020-03646-8" style="color:#0000FF;">doi:10.1007/s11192-020-03646-8</a>
 - Huazhen Yang<sup>#</sup>, Wenwen Chen<sup>#</sup>, Yao Hu, **Yilong Chen**, Yu Zeng, Yajing Sun, Zhiye Ying, Junhui He, Yuanyuan Qu, Donghao Lu, Fang Fang, Unnur A. Valdimarsdóttir<sup>\*</sup> & Huan Song<sup>\*</sup> (2020). Pre-pandemic psychiatric disorders and risk of COVID-19: a UK Biobank cohort analysis. *The Lancet Healthy Longevity, 1*(2):e69-e79. <a href="https://doi.org/10.1016/S2666-7568(20)30013-1" style="color:#0000FF;">doi:10.1016/S2666-7568(20)30013-1</a>
 - 辜永红, **陈一龙**, 杨晓妍, 魏小林, 孔平, 李春漾<sup>\*</sup> (2020). 新疆某市糖尿病住院患者DRGs分组研究. *中国病案, 21*(1):75-77+85.
 - 辜永红, **陈一龙**, 应志野, 张鹏飞, 崔欢欢, 朱婷, 曾筱茜, 孙麟<sup>\*</sup> (2020). 西南某三级大型综合医院胃癌患者手术费用分析及管控建议. *中国医药导报, 17*(24):55-58. <br>
- 
+
 ---
 ### 2019
 - 辜永红, **陈一龙**, 应志野, 孟详云, 李春漾, 曾筱茜<sup>\*</sup> (2019). 2013—2017年新疆克拉玛依市法定传染病与职业病住院患者流行病学分析. *公共卫生与预防医学, 30*(3):79-82. <a href="http://www.cqvip.com/qk/96901a/20193/7002255868.html" style="color:#0000FF;">doi:10.3969/j.issn.1006-2483.2019.03.018</a>

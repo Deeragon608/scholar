@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /cn/patents_cn/index.html
-title: Intellectual Property
+title: 知识产权
+lang: cn
 ---
 
 ## 专利
