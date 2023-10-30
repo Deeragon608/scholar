@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /en/index/index.html
+permalink: /en/index/
 title: Index
 lang: en
 ---

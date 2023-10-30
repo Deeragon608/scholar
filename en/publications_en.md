@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /en/publications_en/index.html
+permalink: /en/publications_en/
 title: Publications
 lang: en
 ---

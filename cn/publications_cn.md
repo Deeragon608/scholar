@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cn/publications_cn/index.html
+permalink: /cn/publications_cn/
 title: 科研成果
 lang: cn
 ---

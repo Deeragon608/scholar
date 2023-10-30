@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cn/fundings_cn/index.html
+permalink: /cn/fundings_cn/
 title: 基金资助
 lang: cn
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cn/index/index.html
+permalink: /cn/index/
 title: Index
 lang: cn
 ---

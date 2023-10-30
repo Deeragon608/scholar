@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cn/patents_cn/index.html
+permalink: /cn/patents_cn/
 title: 知识产权
 lang: cn
 ---
