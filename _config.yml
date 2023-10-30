@@ -38,7 +38,7 @@ owner:
 # For external links add external: true
 en_links:
   - title: Introduction
-    url: /en/
+    url: /en/index/
   - title: Publications
     url: /en/publications/
   - title: Fundings
@@ -50,7 +50,7 @@ en_links:
 
 cn_links:
   - title: 个人介绍
-    url: /cn/
+    url: /cn/index/
   - title: 科研成果
     url: /cn/publications/
   - title: 基金资助
