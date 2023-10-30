@@ -11,7 +11,7 @@
                         <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
                     {% endfor %}
                     <!-- 添加切换到中文的链接 -->
-                    <li><a href="{{ site.url }}/cn/index">中文</a></li>
+                    <li><a href="{{ site.url }}/index">中文</a></li>
                 {% elsif page.lang == "cn" %}
                     {% for link in site.cn_links %}
                         <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
