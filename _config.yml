@@ -32,20 +32,9 @@ owner:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
-# add language options
-languages:
-  - name: English
-    lang: en
-    url: /en/
-  - name: 中文
-    lang: cn
-    url: /cn/
-    
-default_lang: cn
-
 # Links to include in top navigation
 # For external links add external: true
-links:
+en_links:
   - title: Introduction
     url: /en/
   - title: Publications
@@ -56,6 +45,8 @@ links:
     url: /en/patents_en/
   - title: Awards
     url: /en/awards_en/
+
+cn_links:
   - title: 个人介绍
     url: /cn/
   - title: 科研成果
