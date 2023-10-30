@@ -9,8 +9,8 @@
 		        {% for link in site.links %}
 				<li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
 		        {% endfor %}
-				<li><a href="{{ site.url }}/cn/{{ page.url }}" {% if page.lang == "cn" %}class="top-navigation-current"{% endif %}>中文</a></li>
-                <li><a href="{{ site.url }}/en/{{ page.url }}" {% if page.lang == "en" %}class="top-navigation-current"{% endif %}>English</a></li>
+				<li><a href="{{ site.url }}/cn/index.html{{ page.url }}" {% if page.lang == "cn" %}class="top-navigation-current"{% endif %}>中文</a></li>
+                <li><a href="{{ site.url }}/en/index.html{{ page.url }}" {% if page.lang == "en" %}class="top-navigation-current"{% endif %}>English</a></li>
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
