@@ -30,7 +30,7 @@
             event.preventDefault();
             const lang = link.getAttribute("href").split("/")[1]; // 获取点击的语言
             // 根据点击的语言参数跳转到对应语言版本的主页
-            window.location.href = `/${lang}/`;
+            window.location.href = lang;
         });
     });
 });
