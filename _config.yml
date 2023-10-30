@@ -36,18 +36,18 @@ owner:
 languages:
   - name: English
     lang: en
-    url: /
+    url: /en/
   - name: 中文
-    lang: zh
-    url: /zh/
+    lang: cn
+    url: /cn/
     
-default_lang: zh
+default_lang: cn
 
 # Links to include in top navigation
 # For external links add external: true
 links:
   - title: Introduction
-    url: /
+    url: /en/index/
   - title: Publications
     url: /en/publications_en/
   - title: Fundings
@@ -56,8 +56,16 @@ links:
     url: /en/patents_en/
   - title: Awards
     url: /en/awards_en/
-  - title: Blogs
-    url: /en/blogs_en/
+  - title: 个人介绍
+    url: /cn/index/
+  - title: 科研成果
+    url: /cn/publications_cn/
+  - title: 基金资助
+    url: /cn/fundings_cn/
+  - title: 知识产权
+    url: /cn/patents_cn/
+  - title: 荣誉
+    url: /cn/awards_cn/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
