@@ -6,11 +6,18 @@
 	<div class="top-navigation">
 		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		    <ul>
-		        {% for link in site.links %}
-				<li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
-		        {% endfor %}
-				<li><a href="{{ site.url }}/cn/index.html{{ page.url }}" {% if page.lang == "cn" %}class="top-navigation-current"{% endif %}>中文</a></li>
-                <li><a href="{{ site.url }}/en/index.html{{ page.url }}" {% if page.lang == "en" %}class="top-navigation-current"{% endif %}>English</a></li>
+		        <!-- 英文链接 -->
+                {% for link in site.links %}
+                    {% if link.url contains "/en/" %}
+                        <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+                <!-- 中文链接 -->
+                {% for link in site.links %}
+                    {% if link.url contains "/cn/" %}
+                        <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
