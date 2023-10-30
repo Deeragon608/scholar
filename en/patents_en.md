@@ -2,6 +2,7 @@
 layout: page
 permalink: /en/patents_en/index.html
 title: Intellectual Property
+lang: en
 ---
 
 ## Patent
