@@ -1,5 +1,8 @@
 ---
 layout: page
+permalink: /en/index/index.html
+title: Index
+lang: en
 ---
 
 ## About me
