@@ -5,7 +5,8 @@ title: 知识产权
 lang: cn
 ---
 
-## 专利
+### 专利
+
 - [<span style="color:#74B89C;">专利1：</span>高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质](#专利1)
 - [<span style="color:#74B89C;">专利2：</span>基因数据文件快速识别方法、系统和计算机可读存储介质](#专利2)
 - [<span style="color:#74B89C;">专利3：</span>一种多模态组学数据管理系统](#专利3)
@@ -13,8 +14,8 @@ lang: cn
 - [<span style="color:#74B89C;">专利5：</span>一种医学人工智能与高性能计算资源调度系统及调度方法](#专利5)
 - [<span style="color:#74B89C;">专利6：</span>一种基于联邦学习和区块链的医疗大数据共享方法](#专利6)
 
+### 软件著作权
 
-## 软件著作权
 - [<span style="color:#DF9599;">软著1：</span>基于HPC多核并行加速的自动化GWAS分析软件](#软著1)
 - [<span style="color:#DF9599;">软著2：</span>AutoPheWASpeed软件](#软著2)
 - [<span style="color:#DF9599;">软著3：</span>APEAMGA软件](#软著3)
@@ -248,6 +249,5 @@ lang: cn
   </div>
 </div>
 <hr>
-
 
 
