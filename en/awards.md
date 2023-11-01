@@ -5,13 +5,13 @@ title: Awards
 lang: en
 ---
 
-## Honors
+### Honors
 
 #### 2020
 
 - **Outstanding Worker** in the Scientific Research Area of West China Hospital, Sichuan University, 2020<br>
 
-## Competitions
+### Competitions
 
 #### 2014
 
