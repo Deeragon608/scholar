@@ -189,8 +189,21 @@ svg:not(:root){overflow:hidden;}
 .third img{display:inline;float:left;width:33.333333333333336%;}
 .third figcaption{display:inline;float:left;width:100%;}
 img.floatpic{float:right; margin-left:1em; width:33%;}
-img.leftpic{float:left; margin-right:1em; margin-bottom:1em; width:33%;}
-img.piccontainer {display:flex;align-items:center;}
+img.leftpic {
+  max-width: 100%;
+  height: auto;
+} 
+.piccontainer {
+  display: flex;
+  align-items: flex-start;
+}
+.image-container {
+  flex: 1;
+  margin-right: 1em;
+}
+.text-container {
+  flex: 2;
+}
 .paragraph-with-dot::before {
         content: "\2022";
         display: inline-block;
@@ -199,7 +212,7 @@ img.piccontainer {display:flex;align-items:center;}
 margin-top: 0;		
     }
 hr {
-  clear: left;
+  clear: both;
   border: none;
   border-top: 1px solid #ccc;
   margin-top: 1em;

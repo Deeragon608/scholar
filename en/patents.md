@@ -25,6 +25,26 @@ lang: en
 ---
 
 ### Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease <a name="Patent1"></a>
+<div class="piccontainer">
+  <div class="image-container">
+    <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" width="360" height="480">
+  </div>
+  <div class="text-container">
+    <p><span style="color:#74B89C;">Inventors:</span><strong> Chen Yilong</strong>; Zeng Xiaoxi; Ying Zhiye; Yu Haopeng; Yang Lina; Kuang Yalan; Gu Yonghong; Ma Liang<br>
+      <span style="color:#74B89C;">Patent Number:</span> ZL202211459944.6<br>
+      <span style="color:#74B89C;">Patent Type:</span> Invention Patent<br>
+      <span style="color:#74B89C;">Grant Date:</span> March 17, 2023<br>
+      <span style="color:#74B89C;">Grant Number:</span> CN115651975B<br>
+      <span style="color:#74B89C;">Main Functions:</span></p>
+    <p class="paragraph-with-dot">Integrated multi-omics analysis with TAD recombination and transcription factor motif enrichment analysis</p>
+    <p class="paragraph-with-dot">Realizes a new pre-screening method for pathogenic factors of hyperuricemia kidney disease</p>
+    <p class="paragraph-with-dot">Addresses the problem of low accuracy in current pre-screening of pathogenic factors</p>
+  </div>
+</div>
+<hr>
+
+
+
 <dir class="piccontainer">
 
 <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" width="360" height="480">
