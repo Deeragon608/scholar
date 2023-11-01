@@ -5,7 +5,8 @@ title: Intellectual Property
 lang: en
 ---
 
-## Patent
+### Patent
+
 - [<span style="color:#74B89C;">Patent 1:</span> Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease](#Patent1)
 - [<span style="color:#74B89C;">Patent 2:</span> Fast Identification Method, System, and Computer-Readable Storage Medium for Gene Data Files](#Patent2)
 - [<span style="color:#74B89C;">Patent 3:</span> A Multimodal Omics Data Management System](#Patent3)
@@ -13,8 +14,8 @@ lang: en
 - [<span style="color:#74B89C;">Patent 5:</span> Medical Artificial Intelligence and High-Performance Computing Resource Scheduling System and Method](#Patent5)
 - [<span style="color:#74B89C;">Patent 6:</span> Medical Big Data Sharing Method Based on Federated Learning and Blockchain](#Patent6)
 
+### Software Copyright
 
-## Software Copyright
 - [<span style="color:#DF9599;">Software Copyright 1:</span> Automated GWAS Analysis Software Accelerated by HPC Multicore Parallelism](#SoftwareCopyright1)
 - [<span style="color:#DF9599;">Software Copyright 2:</span> AutoPheWASpeed Software](#SoftwareCopyright2)
 - [<span style="color:#DF9599;">Software Copyright 3:</span> APEAMGA Software](#SoftwareCopyright3)
@@ -24,7 +25,7 @@ lang: en
 
 ---
 
-### Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease <a name="Patent1"></a>
+#### Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease <a name="Patent1"></a>
 <div class="piccontainer">
   <div class="image-container">
     <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" width="360" height="480">
