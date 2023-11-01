@@ -44,7 +44,7 @@ lang: en
 </div>
 <hr>
 
-### Fast Identification Method, System, and Computer-Readable Storage Medium for Gene Data Files <a name="Patent2"></a>
+##### Fast Identification Method, System, and Computer-Readable Storage Medium for Gene Data Files <a name="Patent2"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -66,7 +66,7 @@ lang: en
 <hr>
 
 
-### A Multimodal Omics Data Management System <a name="Patent3"></a>
+##### A Multimodal Omics Data Management System <a name="Patent3"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -85,7 +85,7 @@ lang: en
 <hr>
 
 
-### Method and System for Automatic Pairing of Gene Sequencing Multisample Data Files <a name="Patent4"></a>
+##### Method and System for Automatic Pairing of Gene Sequencing Multisample Data Files <a name="Patent4"></a>
 <div class="piccontainer">
   <div class="image-container">
     <img src="/images/应-一种基因测序多样本数据文件自动配对的方法和系统.jpg" class="leftpic" width="360" height="480">
@@ -106,7 +106,7 @@ lang: en
 <hr>
 
 
-### Medical Artificial Intelligence and High-Performance Computing Resource Scheduling System and Method <a name="Patent5"></a>
+##### Medical Artificial Intelligence and High-Performance Computing Resource Scheduling System and Method <a name="Patent5"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -127,7 +127,7 @@ lang: en
 <hr>
 
 
-### Medical Big Data Sharing Method Based on Federated Learning and Blockchain <a name="Patent6"></a>
+##### Medical Big Data Sharing Method Based on Federated Learning and Blockchain <a name="Patent6"></a>
 <div class="piccontainer">
   <div class="image-container">
     <img src="/images/匡-一种基于联邦学习和区块链的医疗大数据共享方法.jpg" class="leftpic" width="360" height="480">
@@ -147,7 +147,7 @@ lang: en
 </div>
 <hr>
 
-### Automated GWAS Analysis Software Accelerated by HPC Multicore Parallelism <a name="SoftwareCopyright1"></a>
+##### Automated GWAS Analysis Software Accelerated by HPC Multicore Parallelism <a name="SoftwareCopyright1"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -169,7 +169,7 @@ lang: en
 <hr>
 
 
-### AutoPheWASpeed Software <a name="SoftwareCopyright2"></a>
+##### AutoPheWASpeed Software <a name="SoftwareCopyright2"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -191,7 +191,7 @@ lang: en
 <hr>
 
 
-### APEAMGA Software <a name="SoftwareCopyright3"></a>
+##### APEAMGA Software <a name="SoftwareCopyright3"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -212,7 +212,7 @@ lang: en
 <hr>
 
 
-### Vennux Software <a name="SoftwareCopyright4"></a>
+##### Vennux Software <a name="SoftwareCopyright4"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -231,7 +231,7 @@ lang: en
 <hr>
 
 
-### ENA Gene Data Batch Collection Software <a name="SoftwareCopyright5"></a>
+##### ENA Gene Data Batch Collection Software <a name="SoftwareCopyright5"></a>
 
 <div class="piccontainer">
   <div class="image-container">
