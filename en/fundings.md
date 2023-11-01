@@ -9,11 +9,13 @@ lang: en
 NSFC indicates National Natural Science Foundation of China<br>
 SCST indicates Science and Technology Department of Sichuan Province
 <br>
-## Principal Investigator
+
+### Principal Investigator
 
 
 ---
-## Co-Investigator
+### Co-Investigator
+
 - 2024.01-2027.12: Zhi Wan (PI), **Yilong Chen** (CI 3), Research on Rare Disease Full-Process Precision Grading Diagnosis and Treatment Circulation Mechanism Based on Multi-Source Knowledge Fusion and Mining, Funded with ￥410,000 by NSFC (Grant No. 72374148)
 - 2023.01-2026.12: Deren Wang (PI), **Yilong Chen** (CI 2), Role and Mechanism of Endothelial Cell Mechanosensitive Ion Channel Piezo1 via HIF-1α/System Xc- in Blood-Brain Barrier Disruption in Acute Cerebral Ischemia-Reperfusion Injury, Funded with ￥520,000 by NSFC (Grant No. 82271331)
 - 2021.08-2022.07: Wei Chen (PI), **Yilong Chen** (CI 8), Key Technologies for Warning the Aggravation Risk of Cerebrovascular Diseases Based on Multi-Modal Data Fusion and Machine Learning, Funded with ￥80,000 by Chengdu Municipal Science and Technology Bureau (Grant No. 2021-YF05-01006-SN)
