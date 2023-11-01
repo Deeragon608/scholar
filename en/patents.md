@@ -25,7 +25,7 @@ lang: en
 
 ---
 
-#### Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease <a name="Patent1"></a>
+##### Method, System, and Storage Medium for Pre-screening Pathogenic Factors of Hyperuricemia Kidney Disease <a name="Patent1"></a>
 <div class="piccontainer">
   <div class="image-container">
     <img src="/images/陈-高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质.jpg" class="leftpic" width="360" height="480">
