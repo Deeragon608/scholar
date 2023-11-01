@@ -25,7 +25,7 @@ lang: cn
 
 ---
 
-#### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质 <a name="专利1"></a>
+##### 高尿酸血症肾脏病致病因子预筛选方法、系统和存储介质 <a name="专利1"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -43,9 +43,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### 基因数据文件快速识别方法、系统和计算机可读存储介质 <a name="专利2"></a>
+##### 基因数据文件快速识别方法、系统和计算机可读存储介质 <a name="专利2"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -65,9 +63,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### 一种多模态组学数据管理系统 <a name="专利3"></a>
+##### 一种多模态组学数据管理系统 <a name="专利3"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -84,9 +80,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### 一种基因测序多样本数据文件自动配对的方法和系统 <a name="专利4"></a>
+##### 一种基因测序多样本数据文件自动配对的方法和系统 <a name="专利4"></a>
 <div class="piccontainer">
   <div class="image-container">
     <img src="/images/应-一种基因测序多样本数据文件自动配对的方法和系统.jpg" class="leftpic" width="360" height="480">
@@ -105,9 +99,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### 一种医学人工智能与高性能计算资源调度系统及调度方法 <a name="专利5"></a>
+##### 一种医学人工智能与高性能计算资源调度系统及调度方法 <a name="专利5"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -126,9 +118,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### 一种基于联邦学习和区块链的医疗大数据共享方法 <a name="专利6"></a>
+##### 一种基于联邦学习和区块链的医疗大数据共享方法 <a name="专利6"></a>
 <div class="piccontainer">
   <div class="image-container">
     <img src="/images/匡-一种基于联邦学习和区块链的医疗大数据共享方法.jpg" class="leftpic" width="360" height="480">
@@ -148,7 +138,7 @@ lang: cn
 </div>
 <hr>
 
-### 基于HPC多核并行加速的自动化GWAS分析软件 <a name="软著1"></a>
+##### 基于HPC多核并行加速的自动化GWAS分析软件 <a name="软著1"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -168,9 +158,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### AutoPheWASpeed软件 <a name="软著2"></a>
+##### AutoPheWASpeed软件 <a name="软著2"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -190,9 +178,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### APEAMGA软件 <a name="软著3"></a>
+##### APEAMGA软件 <a name="软著3"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -211,9 +197,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### Vennux软件 <a name="软著4"></a>
+##### Vennux软件 <a name="软著4"></a>
 
 <div class="piccontainer">
   <div class="image-container">
@@ -230,9 +214,7 @@ lang: cn
   </div>
 </div>
 <hr>
-
-
-### ENA基因数据批量采集软件 <a name="软著5"></a>
+##### ENA基因数据批量采集软件 <a name="软著5"></a>
 
 <div class="piccontainer">
   <div class="image-container">
