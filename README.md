@@ -1,12 +1,12 @@
 # Introduction
 
 ### Yilong Chen
-Homepage: [scholar.deeragon.cn](https://scholar.deeragon.cn)<br>
+Homepage: [yilongchen.com](https://yilongchen.com)<br>
 Email: chenyilong@scu.edu.cn<br>
 
 ## Update and News
 
-- **Oct 2023:** Homepage of Yilong chen has been implemented and deployed in [scholar.deeragon.cn](https://scholar.deeragon.cn)
+- **Oct 2023:** Homepage of Yilong chen has been implemented and deployed in [yilongchen.com](https://yilongchen.com)
 
 ## Star History
 
