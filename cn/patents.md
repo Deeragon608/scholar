@@ -33,10 +33,12 @@ lang: cn
   </div>
   <div class="text-container">
     <p><span style="color:#74B89C;">专利发明人：</span><strong>陈一龙</strong>；曾筱茜；应志野；于浩澎；杨丽娜；匡亚岚；辜永红；马良<br>
+    <span style="color:#74B89C;">专利号：</span>ZL202211459944.6<br>
+    <span style="color:#74B89C;">专利类型：</span>发明专利<br>
     <span style="color:#74B89C;">授权公告日：</span>2023-03-17<br>
     <span style="color:#74B89C;">授权公告号：</span>CN115651975B<br>
-    <span style="color:#74B89C;">专利号：</span>ZL202211459944.6<br>
     <span style="color:#74B89C;">主要功能：</span></p>
+
 <p class="paragraph-with-dot">集成TAD重组的多组学分析与转录因子基序富集分析</p>
 <p class="paragraph-with-dot">实现一种新的高尿酸血症肾脏病致病因子的预筛选方法</p>
 <p class="paragraph-with-dot">解决当前对致病因子预筛选准确度不高的问题</p>
@@ -44,6 +46,7 @@ lang: cn
 </div>
 <hr>
 ##### 基因数据文件快速识别方法、系统和计算机可读存储介质 <a name="专利2"></a>
+
 
 <div class="piccontainer">
   <div class="image-container">
