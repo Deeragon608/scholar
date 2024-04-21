@@ -9,7 +9,12 @@ lang: en
 **<sup>\*</sup>** indicates the corresponding author<br>
 **<sup>\#</sup>** indicates equal contribution and shared first authorship
 
+### 2024
+
+- Wei Xiao<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Long-yi Du<sup>\#</sup>, Jiqiu Wu, Zhang Wang, Bing Mao, Fu-qiang Wen, Peter Gerard Gibson, Vanessa M. McDonald, Haopeng Yu  & Juan-juan Fu<sup>\*</sup> (2024). Bacterial interactome disturbance in chronic obstructive pulmonary disease clinical stability and exacerbations. *Respiratory Research, 25*:173. <a href="https://doi.org/10.1186/s12931-024-02802-5" style="color:#0000FF;">doi:10.1186/s12931-024-02802-5</a>
+
 ### 2023
+
 - **Yilong Chen**, Yalan Kuang, Siyuan Luan, Yongsan Yang, Zhiye Ying, Chunyang Li, Jinhang Gao, Yong Yuan<sup>\*</sup> & Haopeng Yu<sup>\*</sup> (2023). DASES: a database of alternative splicing for esophageal squamous cell carcinoma. *Frontiers in Genetics,14*:1237167. <a href="https://doi.org/10.3389/fgene.2023.1237167" style="color:#0000FF;">doi:10.3389/fgene.2023.1237167</a>
 - Chunyang Li<sup>\#</sup>, **Yilong Chen<sup>\#</sup>**,Yi Chen, Zhiye Ying, Yao Hu, Yalan Kuang, Huazhen Yang, Huan Song & Xiaoxi Zeng<sup>\*</sup> (2023). The causal association of Irritable Bowel Syndrome with multiple disease outcomes: A phenome-wide mendelian randomization study. *Journal of Clinical Medicine, 12*(3):1106. <a href="https://doi.org/10.3390/jcm12031106" style="color:#0000FF;">doi:10.3390/jcm12031106</a>
 - Chunyang Li, **Yilong Chen**, Weiling Zhao, Chao Zhang, Lei Tang, Zhiye Ying, Wenwen Chen, Ping Fu, Huan Song, Xiaobo Zhou & Xiaoxi Zeng<sup>\*</sup> (2023). Genetic impact on the association of sleep patterns and chronic kidney disease: A prospective cohort study of 157,175 UK Biobank participants. *Journal of Psychosomatic Research, 169*:111323. <a href="https://doi.org/10.1016/j.jpsychores.2023.111323" style="color:#0000FF;">doi:10.1016/j.jpsychores.2023.111323</a>
