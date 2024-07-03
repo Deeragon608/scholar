@@ -12,6 +12,7 @@ lang: cn
 ### 2024
 
 - Wei Xiao<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Long-yi Du<sup>\#</sup>, Jiqiu Wu, Zhang Wang, Bing Mao, Fu-qiang Wen, Peter Gerard Gibson, Vanessa M. McDonald, Haopeng Yu  & Juan-juan Fu<sup>\*</sup> (2024). Bacterial interactome disturbance in chronic obstructive pulmonary disease clinical stability and exacerbations. *Respiratory Research, 25*:173. <a href="https://doi.org/10.1186/s12931-024-02802-5" style="color:#0000FF;">doi:10.1186/s12931-024-02802-5</a>
+- Chunyang Li<sup>\#</sup>,  Chao Zhang<sup>\#</sup>, Jie Chen, **Yilong Chen**, Zhiye Ying, Yao Hu, Huan Song, Ping Fu & Xiaoxi Zeng<sup>\*</sup> (2024). The time-varying impact of COVID-19 on the acute kidney disorders: A historical matched cohort study and Mendelian randomization analysis. *Health Data Science*. <a href="https://spj.science.org/doi/10.34133/hds.0159" style="color:#0000FF;">doi:10.34133/hds.0159</a> 
 
 ### 2023
 
