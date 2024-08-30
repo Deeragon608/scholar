@@ -17,7 +17,7 @@ Addr: 37 Guoxue Alley, Wuhou District, Chengdu, Sichuan, P.R. China 610041<br>
 
 ### Brief introduction
 
-Yilong Chen is a bioinformatics and medical informatics researcher, mainly engaging in medical informatics data mining and bioinformatics data analysis. He has been a principal researcher in 8 national and provincial projects. He was honored as a "Wiley Highly Contributed Author for Open Science in China." He has published over 30 articles in Chinese and English in journals including *Cell Stem Cell*, *Cell Stem Cell*, *Respir Res*, and *Comput Methods Programs Biomed*. He holds 6 authorized invention patents, including 2 as the first inventor, and has received 4 computer software copyrights as the lead developer.<br>
+Yilong Chen is a bioinformatics and medical informatics researcher, mainly engaging in medical informatics data mining and bioinformatics data analysis. He has been a principal researcher in 8 national and provincial projects. He was honored as a "Wiley Highly Contributed Author for Open Science in China." He has published over 30 articles in Chinese and English in journals including *Cell Stem Cell*, *Respir Res*, *Comput Methods Programs Biomed*, and etc. He holds 6 authorized invention patents, including 2 as the first inventor, and has received 4 computer software copyrights as the lead developer.<br>
 
 ---
 
