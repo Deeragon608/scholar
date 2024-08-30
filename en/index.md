@@ -17,19 +17,20 @@ Addr: 37 Guoxue Alley, Wuhou District, Chengdu, Sichuan, P.R. China 610041<br>
 
 ### Brief introduction
 
-Yilong Chen is a bioinformatics and medical informatics researcher. He develops algorithms for analyzing genomic data and applies medical big data techniques to clinical data. His interdisciplinary work drives innovation in precision medicine. With published research on genetic associations and psychiatric disorders, he contributes to data-driven healthcare solutions.<br>
+Yilong Chen is a bioinformatics and medical informatics researcher, mainly engaging in medical informatics data mining and bioinformatics data analysis. He has been a principal researcher in 8 national and provincial projects. He was honored as a "Wiley Highly Contributed Author for Open Science in China." He has published over 30 articles in Chinese and English in journals including *Cell Stem Cell*, *Cell Stem Cell*, *Respir Res*, and *Comput Methods Programs Biomed*. He holds 6 authorized invention patents, including 2 as the first inventor, and has received 4 computer software copyrights as the lead developer.<br>
 
 ---
 
 ### Work Experience
 
-- **Analyst**, Oct 2018 - present, Biomedical Big Data Center, West China Hospital, Sichuan University, China
+- **Data Analyst**, Oct 2018 - present, Biomedical Big Data Center, West China Hospital, Sichuan University, China
 <br>
 
 ---
 
 ### Academic Background
 
+- **Ph.D.**, Sep 2024 - current, Sichuan University, Chengdu, Sichuan 610041, China
 - **M.S.**, Aug 2015 - Aug 2018, Colorado State University, Fort Collins, CO 80525, USA
 - **B.S.**, Sep 2011 - June 2015, Xihua University, Chengdu, Sichuan 610041, China
 <br>
