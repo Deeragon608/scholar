@@ -23,7 +23,7 @@ Yilong Chen is a bioinformatics and medical informatics researcher, mainly engag
 
 ### Work Experience
 
-- **Data Analyst**, Oct 2018 - present, Biomedical Big Data Center, West China Hospital, Sichuan University, China
+- **Analyst**, Oct 2018 - present, Biomedical Big Data Center, West China Hospital, Sichuan University, China
 <br>
 
 ---
