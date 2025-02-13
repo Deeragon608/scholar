@@ -9,6 +9,10 @@ lang: en
 **<sup>\*</sup>** indicates the corresponding author<br>
 **<sup>\#</sup>** indicates equal contribution and shared first authorship
 
+### 2025
+- Lina Yang<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Fan Guo, Bo Wang, Zhiye Ying, Yalan Kuang, Xiaoxi Zeng, Liang Ma<sup>\*</sup>, Haopeng Yu<sup>\*</sup> & Ping Fu<sup>\*</sup> (2024). Transcription factor ATF3 aggravates kidney fibrosis by maintaining the state of histone H3 lysine 27 acetylation. *Chinese Medical Journal, XX*(XX):XXXX-XXXX. <a href="https://journals.lww.com/cmj/fulltext/9900/transcription_factor_atf3_aggravates_kidney.1416.aspx" style="color:#0000FF;">doi:10.1097/CM9.0000000000003425</a>
+
+---
 ### 2024
 - Chunyang Li<sup>\#</sup>, Jie Chen<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Chao Zhang, Huazhen Yang, Shaobin Yu, Huan Song, Ping Fu & Xiaoxi Zeng<sup>\*</sup> (2024). The association between patterns of exposure to adverse life events and the risk of chronic kidney disease: a prospective cohort study of 140,997 individuals. *Translational Psychiatry, 14*:424. <a href="https://doi.org/10.1038/s41398-024-03114-4" style="color:#0000FF;">doi:10.1038/s41398-024-03114-4</a>
 - Jun Sun<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Ruiye Bi, Yong Yuan & Haopeng Yu<sup>\*</sup> (2024). Bioinformatic approaches of liquid–liquid phase separation in human disease. *Chinese Medical Journal, 137*(16):1912-1925. <a href="https://journals.lww.com/cmj/fulltext/2024/08200/bioinformatic_approaches_of_liquid_liquid_phase.4.aspx" style="color:#0000FF;">doi:10.1097/CM9.0000000000003249</a>
