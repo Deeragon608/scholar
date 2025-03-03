@@ -11,6 +11,7 @@ lang: en
 
 ### 2025
 - Lina Yang<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Fan Guo, Bo Wang, Zhiye Ying, Yalan Kuang, Xiaoxi Zeng, Liang Ma<sup>\*</sup>, Haopeng Yu<sup>\*</sup> & Ping Fu<sup>\*</sup> (2024). Transcription factor ATF3 aggravates kidney fibrosis by maintaining the state of histone H3 lysine 27 acetylation. *Chinese Medical Journal, XX*(XX):XXXX-XXXX. <a href="https://journals.lww.com/cmj/fulltext/9900/transcription_factor_atf3_aggravates_kidney.1416.aspx" style="color:#0000FF;">doi:10.1097/CM9.0000000000003425</a>
+- Zizheng Wang<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Haoning Li, Yuan Yue<sup>\*</sup> & Haopeng Yu<sup>\*</sup> (2024). Exploring oral microbiome in oral squamous cell carcinoma across environment-associated sample types. *Microbiology Spectrum, 0*:e00852-24. <a href="https://journals.asm.org/doi/10.1128/spectrum.00852-24" style="color:#0000FF;">doi:10.1128/spectrum.00852-24</a>
 
 ---
 ### 2024
