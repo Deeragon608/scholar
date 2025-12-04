@@ -51,8 +51,8 @@ lang: cn
 - Huan Tong, Can Gan, Bo Wei, Zhidong Wang, Xiaodan Li, Shuaijie Qian, Hui Huan, Linhao Zhang, Zhu Yang, **Yilong Chen**, Yonghong Gu, Liuxiang Chen, Yuhang Yang, Hao Wu<sup>\*</sup> & Chengwei Tang<sup>\*</sup> (2021). Risk factors for overt hepatic encephalopathy after transjugular intrahepatic portosystemic shunt creation in patients with liver cirrhosis. *Journal of Digestive Diseases, 22*(01):31-40. <a href="https://doi.org/10.1111/1751-2980.12957" style="color:#0000FF;">doi:10.1111/1751-2980.12957</a>
 - **陈一龙**, 卜嘉彬, 李景宇, 李东泽, 龚力, 万智<sup>\*</sup> (2021). 基于知识图谱的罕见病就医决策引擎设计研究. *华西医学, 36*(12):1730-1733. <a href="http://www.wcjm.org/article/10.7507/1002-0179.202111004" style="color:#0000FF;">doi:10.7507/1002-0179.202111004</a>
 - **陈一龙**, 崔欢欢, 辜永红<sup>\*</sup>, 孙麟 (2021). 某大型综合医院心房颤动住院费用分析及管控建议. *中国医疗保险,* (4):59-62. <a href="https://d.wanfangdata.com.cn/periodical/zgylbx202104022" style="color:#0000FF;">doi:10.19546/j.issn.1674-3830.2021.4.014</a>
-- 龚力, 何谦, 李景宇, 李东泽, **陈一龙**, 万智<sup>\*</sup> (2021). 罕见病新型管理模式探索与实践的华西经验. *华西医学, 36*(12):1726-1729. <a href="http://www.wcjm.org/article/10.7507/1002-0179.202110185" style="color:#0000FF;">doi:10.7507/1002-0179.202110185</a>
 - 苟莉<sup>\*</sup>, **陈一龙** (2021). 替代计量学视角下医学与健康科学热点论文特征分析及启示. *预防医学情报杂志, 37*(4):580-587. <br>
+- 龚力, 何谦, 李景宇, 李东泽, **陈一龙**, 万智<sup>\*</sup> (2021). 罕见病新型管理模式探索与实践的华西经验. *华西医学, 36*(12):1726-1729. <a href="http://www.wcjm.org/article/10.7507/1002-0179.202110185" style="color:#0000FF;">doi:10.7507/1002-0179.202110185</a>
 
 ---
 ### 2020
