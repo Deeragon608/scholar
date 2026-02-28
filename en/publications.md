@@ -10,7 +10,7 @@ lang: en
 **<sup>\#</sup>** indicates equal contribution and shared first authorship
 
 ### 2026
-- Lina Yang<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Fan Guo, Bo Wang, Zhiye Ying, Yalan Kuang, Xiaoxi Zeng, Liang Ma<sup>\*</sup>, Haopeng Yu<sup>\*</sup> & Ping Fu<sup>\*</sup> (2025). Transcription factor ATF3 aggravates kidney fibrosis by maintaining the state of histone H3 lysine 27 acetylation. *Chinese Medical Journal, 139*(2):253-264. <a href="https://journals.lww.com/cmj/fulltext/9900/transcription_factor_atf3_aggravates_kidney.1416.aspx" style="color:#0000FF;">doi:10.1097/CM9.0000000000003425</a>
+- Lina Yang<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Fan Guo, Bo Wang, Zhiye Ying, Yalan Kuang, Xiaoxi Zeng, Liang Ma<sup>\*</sup>, Haopeng Yu<sup>\*</sup> & Ping Fu<sup>\*</sup> (2026). Transcription factor ATF3 aggravates kidney fibrosis by maintaining the state of histone H3 lysine 27 acetylation. *Chinese Medical Journal, 139*(2):253-264. <a href="https://journals.lww.com/cmj/fulltext/9900/transcription_factor_atf3_aggravates_kidney.1416.aspx" style="color:#0000FF;">doi:10.1097/CM9.0000000000003425</a>
 
 ---
 ### 2025
