@@ -40,7 +40,7 @@ Yilong Chen is a bioinformatics and medical informatics researcher, mainly engag
 ### Research Interests
 
 - Multi-omics Data Mining
-- Subtying of Depression
+- Subtyping of Depression
 - Applied Statistics
 - Environmental Health
 
