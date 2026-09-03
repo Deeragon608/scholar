@@ -12,6 +12,7 @@ lang: en
 ### 2026
 - Lina Yang<sup>\#</sup>,  **Yilong Chen<sup>\#</sup>**, Fan Guo, Bo Wang, Zhiye Ying, Yalan Kuang, Xiaoxi Zeng, Liang Ma<sup>\*</sup>, Haopeng Yu<sup>\*</sup> & Ping Fu<sup>\*</sup> (2026). Transcription factor ATF3 aggravates kidney fibrosis by maintaining the state of histone H3 lysine 27 acetylation. *Chinese Medical Journal, 139*(2):253-264. <a href="https://journals.lww.com/cmj/fulltext/9900/transcription_factor_atf3_aggravates_kidney.1416.aspx" style="color:#0000FF;">doi:10.1097/CM9.0000000000003425</a>
 - Lin Lan, Min Dai, **Yilong Chen**, Hao Zhang, Luying Zhong, Shan Tang<sup>\*</sup> & Xiaoli Chen<sup>\*</sup> (2026). Machine Learning Models for Identifying Factors Associated With Workplace Violence Among Emergency Nurses: A Comparative Study. *Emergency Medecine International*, 9275645. <a href="https://doi.org/10.1155/emmi/9275645" style="color:#0000FF;">doi:10.1155/emmi/9275645</a>
+- Qiumei Gu, Hongyi Liu, Yifan Xie, Fang Lu, Ziyan He, **Yilong Chen**, Jiacen Wan & Xiaoshuang Jiang<sup>\*</sup> (2026). Clinical Outcomes After Same-Agent Double-Dose Anti-VEGF Escalation in Eyes with a Suboptimal Response to Standard-Dose Treatment for Exudative Macular Diseases: A Real-World Pre–Post Study. *Journal of Clinical Medecine, 15*(15): 5898. <a href="https://doi.org/10.3390/jcm15155898" style="color:#0000FF;">doi:10.3390/jcm15155898</a>
 
 ---
 ### 2025
